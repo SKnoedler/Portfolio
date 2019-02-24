@@ -39,7 +39,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Using Logistic Regression to predict XYZ
 
 	- __R__
-		- [ML Logistic Regression](https://github.com/steffen/.../prediction1.ipynb): Predicting XYZ
+		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Predicting XYZ
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, write me an email at st.knoedler@gmail.com 
