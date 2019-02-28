@@ -5,7 +5,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 Please also take a look at my [Website](https://sknoedler.github.io) where you can find my CV as well as a more general description of my Data Science skills.
 
-## Knowledge/ Projects [Draft]
+## 1 Knowledge/ Projects [Draft]
 
 - ### Statistics Basics
 
@@ -49,7 +49,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 		
 
 
-- ## Completed Academic Courses: 
+- ## 2 Completed Academic Courses: 
 
 	- #### Statistics (15 ECTS)
 		- At the beginning, descriptive methods for preparation and analysis of
@@ -86,7 +86,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 
 
 
-- ## Online Courses: 
+- ## 3 Online Courses: 
 
 	- #### Introduction to Python
 		- [XYZ]
