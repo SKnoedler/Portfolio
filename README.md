@@ -1,9 +1,9 @@
 # Data Science Portfolio  [TEMPLATE]
 This is and overview of my Data Science projects completed by me for academic, self learning, and hobby purposes
 
-If you like what you see here and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an email at st.knoedler@gmail.com 
+If you like what you see here and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](st.knoedler@gmail.com) 
 
-Please also take a look at my website where you can find my CV as well as a more general description of my Data Science skills -[sknoedler.github.io](http://sknoedler.github.io)
+Please also take a look at my [website](http://sknoedler.github.io) where you can find my CV as well as a more general description of my Data Science skills.
 
 ## Contents
 
