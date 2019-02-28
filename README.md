@@ -3,7 +3,7 @@ This is an overview of my Data Science knowledge as well as a brief summary of r
 
 If you like what you see here and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](mailto:st.knoedler@gmail.com). Please also take a look at my [Website](https://sknoedler.github.io) where you can find my CV as well as a more general description of my Data Science skills.
 
-## 1 Fundamentals
+## 1) Fundamentals
 
 - ### Statistics
 	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
@@ -12,7 +12,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
 
 
-## 1 Projects
+## 2) Projects
 
 
 - ### Machine Learning
@@ -33,7 +33,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	- [Short Post about Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): "This week, one of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP). Until lately, I have not heard much about this topic but it has caught my interest now. Deep PP aims to combine the advantages of Deep Learning and PP. So what is it about?"
 
 
-- ## 2 Completed Academic Courses: 
+- ## 3) Academic Courses: 
 
 	- #### Statistics (15 ECTS)
 		- Descriptive methods of univariate data analysis; additional methods and
@@ -64,7 +64,7 @@ Dimensionality reduction and visualization techniques such as principal componen
 
 
 
-- ## 3 Online Courses: 
+- ## 4) Online Courses: 
 
 	- #### Introduction to Python
 		- Datacamp.com: In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. 
