@@ -49,7 +49,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	- #### Introduction to Data Science (7.5 ECTS) [Python]
 		- The course covers the following tentative topic list: Foundations of statistical learning, probability theory; Classification methods, such as: Linear models, K-Nearest Neighbor; Regression methods, such as: Linear regression; Bayesian Statistics; Clustering.
 Dimensionality reduction and visualization techniques such as principal component analysis (PCA).
-	- #### Navigating Complexity: Mapping, Visualisation & Decision- making [Tableau]
+	- #### Navigating Complexity: Mapping, Visualisation & Decision- making (15 ECTS) [Tableau, Gephi, WebCrawler]
 		- The course will teach students to describe and analyse complexity within an empirical case. Students will be introduced to a range of conceptual and technical tools for generating and visualizing data and analyzing complexity. Throughout the course students will experiment with different techniques for generating data and visualizing complexity. Based on case work, students will be requested to reflect on how visualizations work as simplifications and can inform decision-making.
 	- #### Big Data Processes (7.5 ECTS) [Tableau]
 		- This course covers analytics and visualization (e.g., exploratory data analysis, classification, clustering), as well as challenges of Big Data processes (e.g., handling of personal data). Furthermore, students will practice communicating and presenting of results as well as reflections during the exercises. Students learn to apply a number of software tools for analytics and visualization, such as Tableau and R.
