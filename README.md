@@ -1,16 +1,18 @@
-# Data Science Portfolio  
+# Data Science Portfolio [Draft]
 This is an overview of my Data Science knowledge as well as a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes.
 
 If you like what you see here and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](mailto:st.knoedler@gmail.com).
 
 Please also take a look at my [Website](https://sknoedler.github.io) where you can find my CV as well as a more general description of my Data Science skills.
 
-## 1 Knowledge/ Projects [Draft]
+## 1 Basics
 
 - ### Statistics Basics
 
-
 - ### SQL Basics
+
+
+## 1 Projects
 
 
 - ### Machine Learning
