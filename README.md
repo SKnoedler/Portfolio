@@ -50,13 +50,20 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 
 - ### Data Science relevant Academic Courses: 
 
-	- Statistics
-		- Descriptive methods of univariate data analysis; additional methods and
+	- Statistics (15 ECTS)
+		- At the beginning descriptive methods for preparation and analysis of
+		economic data are provided. Then probability and distribution theory is
+		introduced for the modeling of random. Moreover, estimation and testing
+		methods are being studied that allow making data-driven economic
+		decisions. In particular the linear regression model allows the measurement
+		and modeling of economic contexts.
+		
+		Descriptive methods of univariate data analysis; additional methods and
 		correlation analysis; probability calculus; stochastic variables and
 		distribution, distribution models; sums and means of sampling variables;
 		parameter estimation; confidence intervals; statistical tests; further specific
 		test problems; linear regression model
-	- Mathematics
+	- Mathematics (10ECTS)
 		- [XYZ]
 	- Databases
 		- [XYZ]
