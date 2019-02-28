@@ -50,7 +50,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 
 - ### Data Science relevant Academic Courses: 
 
-	- Statistics (15 ECTS)
+	- ## Statistics (15 ECTS)
 		- At the beginning, descriptive methods for preparation and analysis of
 		economic data are provided. Then probability and distribution theory is
 		introduced for the modeling of random. Moreover, estimation and testing
