@@ -7,6 +7,14 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
+- ### Statistics Basics
+
+- ### SQL Basics
+
+
+
+## Contents
+
 - ### Machine Learning
 
 	- [Predicting XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (1)
@@ -33,7 +41,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [Analysis XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (1)
 
 
-- ### Micro Projects: 
+- ### Independent Projects: 
 
 	- __Python__
 		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Using Logistic Regression to predict XYZ
