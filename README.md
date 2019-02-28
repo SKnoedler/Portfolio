@@ -17,38 +17,22 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 
 - ### Machine Learning
 
-	- [Predicting XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (1)
-	- [Supervised Learning: XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (2)
-	- [Unsupervised Learning: XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (3)
-	- [Reinforcement Learning: XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (4)
-	- [Deep Learning: XYZ](https://github.com/steffen/.../prediction1.ipynb):  Description of the Project (5)
+	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: scikit-learn, Pandas, Matplotlib, Pygame_ 
 
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Analysis XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (1)
-		- [Analysis XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (2)
-		- [Analysis XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (3)
-		- [Analysis XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (4)
-		- [Analysis XYZ](https://github.com/steffen/.../prediction1.ipynb):  Description of the Project (5)
+		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 
-		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
-
-	- __R__ 
-		- [Analysis XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project (1)
+	_Tools: Pandas and Matplotlib_
 
 
 - ### Independent Projects: 
 
 	- __Python__
-		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Using Logistic Regression to predict XYZ
-
-	- __R__
-		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Predicting XYZ
-		
+		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 
 
 - ## 2 Completed Academic Courses: 
