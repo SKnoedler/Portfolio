@@ -3,16 +3,8 @@ This is an overview of my Data Science knowledge as well as a brief summary of r
 
 If you like what you see here and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](mailto:st.knoedler@gmail.com). Please also take a look at my [Website](https://sknoedler.github.io) where you can find my CV as well as a more general description of my Data Science skills.
 
-## 1) Fundamentals
 
-- ### Statistics
-	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
-
-- ### SQL
-	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
-
-
-## 2) Projects
+## 1) Projects
 
 - ### Machine Learning
 	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
@@ -29,6 +21,17 @@ If you like what you see here and you want to have a chat with me about my portf
 
 - ### Independent Projects
 	- [Short Post about Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): "This week, one of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP). Until lately, I have not heard much about this topic but it has caught my interest now. Deep PP aims to combine the advantages of Deep Learning and PP. So what is it about?"
+
+
+## 2) Fundamentals
+
+- ### Statistics
+	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
+
+- ### SQL
+	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
+
+
 
 
 - ## 3) Academic Courses: 
