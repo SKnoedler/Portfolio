@@ -18,7 +18,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 - ### Independent Projects
-	- [Short Post about Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): "This week, one of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP). Until lately, I have not heard much about this topic but it has caught my interest now. Deep PP aims to combine the advantages of Deep Learning and PP. So what is it about?"
+	- [Short Post about Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming during one of our lectures. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is about. I think Deep Probabilistic Programming is a very exciting field of study and I cannot wait to learn more.
 
 
 
