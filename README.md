@@ -5,7 +5,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 Please also take a look at my [Website](https://sknoedler.github.io) where you can find my CV as well as a more general description of my Data Science skills.
 
-## Contents [Draft]
+## Knowledge [Draft]
 
 - ### Statistics Basics
 
@@ -48,7 +48,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Predicting XYZ
 		
 
-- ### Data Science relevant Academic Courses: 
+- ## Completed Academic Courses: 
 
 	- #### Statistics (15 ECTS)
 		- At the beginning, descriptive methods for preparation and analysis of
@@ -83,7 +83,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 	- #### Business Information Systems 2
 		- [XYZ]
 
-- ### Data Science relevant Online Courses: 
+- ## DOnline Courses: 
 
 	- #### Introduction to Python
 		- [XYZ]
