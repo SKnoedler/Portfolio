@@ -5,16 +5,14 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 ## 1) Projects
-
-- ### Machine Learning
+- ### Machine Learning [Python]
 	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 
 	_Tools: scikit-learn, Pandas, Matplotlib, Pygame_ 
 
 
-- ### Data Analysis and Visualisation
-	- __Python__
-		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+- ### Data Analysis and Visualisation [Python]
+	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 
 	_Tools: Pandas and Matplotlib_
 
@@ -23,8 +21,8 @@ If you like what you see here and you want to have a chat with me about my portf
 	- [Short Post about Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): "This week, one of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP). Until lately, I have not heard much about this topic but it has caught my interest now. Deep PP aims to combine the advantages of Deep Learning and PP. So what is it about?"
 
 
-## 2) Fundamentals
 
+## 2) Fundamentals
 - ### Statistics
 	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
 
@@ -35,7 +33,6 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 - ## 3) Academic Courses: 
-
 	- #### Statistics (15 ECTS)
 		- Descriptive methods of univariate data analysis; additional methods and
 		correlation analysis; probability calculus; stochastic variables and
