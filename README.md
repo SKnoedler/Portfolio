@@ -67,27 +67,27 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 	- Mathematics (10ECTS)
 		- [XYZ]
 	- Databases (5 ECTS) [SQL]
-		- Databases are the foundation of modern information systems, both in classic industries as weil as in e-business. 			Examples for database driven information systems are ERP, SCM and BI Systems. As databases offer a fundamental platform 		for efficient support of business processes, their design and integration has to be carefully planned and executed. This 	 	 lecture addresses this issue and offers an in-depth discussion of modern database system architectures and query 			language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). 			Other topics covered are data integrity, integrity constraints, and database design.
-	- Introduction to Data Science
+		- As databases offer a fundamental platform for efficient support of business processes, their design and integration has to be carefully planned and executed. This lecture addresses this issue and offers an in-depth discussion of modern database system architectures and query language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). Other topics covered are data integrity, integrity constraints, and database design.
+	- ### Introduction to Data Science
 		- [XYZ]
-	- Navigating Complexity: Mapping, Visualisation & Decision- making
+	- ### Navigating Complexity: Mapping, Visualisation & Decision- making
 		- [XYZ]
-	- Big Data Processes
+	- ### Big Data Processes
 		- [XYZ]
-	- Foundations of Development of IT
+	- ### Foundations of Development of IT
 		- [XYZ]
-	- Marketing Analytics
+	- ### Marketing Analytics
 		- [XYZ]
-	- Introudction to Information Management (5 ECTS) [Python]
+	- ### Introudction to Information Management (5 ECTS) [Python]
 		- First, application systems and information systems as weil as the basic idea of standard business processes and their support by ERP systems are covered. The second part of the lecture addresses basic knowledge related to data management. The concept of data modeling is captured by an introduction to the Entity-Relationship-Model. The understanding of this basic topic is supplemented by the practical application of databases. Subsequently, an introduction to computers and programming is given, utilizing the programming language Python. The last part of the lecture deals with communication systems and their application in the fields of e-Business and e-Markets. Basic concepts of the Internet, the World Wide Web (WWW) and the realization of e-Business solutions are also presented.
-	- Business Information Systems 2
+	- ### Business Information Systems 2
 		- [XYZ]
 
 - ### Data Science relevant Online Courses: 
 
-	- Introduction to Python
+	- ### Introduction to Python
 		- [XYZ]
-	- Intro to SQL for Data Science
+	- ### Intro to SQL for Data Science
 		- [XYZ]
 
 
