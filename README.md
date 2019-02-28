@@ -30,7 +30,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 
 
 - ### Independent Projects
-	- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): "This week, one of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP). Until lately, I have not heard much about this topic but it has caught my interest now. Deep PP aims to combine the advantages of Deep Learning and PP. So what is it about?"
+	- [Short Post about Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): "This week, one of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP). Until lately, I have not heard much about this topic but it has caught my interest now. Deep PP aims to combine the advantages of Deep Learning and PP. So what is it about?"
 
 
 - ## 2 Completed Academic Courses: 
