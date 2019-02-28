@@ -42,7 +42,7 @@ If you like what you see here and you want to have a chat with me about my portf
 		parameter estimation; confidence intervals; statistical tests; further specific
 		test problems; linear regression model
 		
-	- #### Mathematics (10ECTS)
+	- #### Mathematics (10 ECTS)
 		- The main focus areas of this course are linear algebra {including, amongst others, matrix calculus, matrix inverse, determinants of matrices, linear systems of equations, vector calculus), sequences and series as well as differential calculus {including, amongst others, differentiation of real functions, Taylor expansions, univariate and multivariate optimization of functions without and with constraint {Lagrange method). 
 	- #### Databases (5 ECTS) [SQL]
 		- This course offers an in-depth discussion of modern database system architectures and query language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). Other topics covered are data integrity, integrity constraints, and database design.
