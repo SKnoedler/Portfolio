@@ -73,7 +73,7 @@ Dimensionality reduction and visualization techniques such as principal componen
 		- This course covers analytics and visualization (e.g., exploratory data analysis, classification, clustering), a specific application domains (e.g., marketing, financials, transportation), as well as challenges of Big Data processes (e.g., handling of personal data). Furthermore, you will practice communicating and presenting your results and reflections during the exercises in order to prepare for the oral exam. During the course you will learn to apply a number of software tools for analytics and visualization, such as Tableau and R.
 	- #### Foundations of Development of IT [SQL]
 		- This course covers and deals with each phase in the IT development cycle individually. The cycle will be broken down into themes: initiation, system concept development, planning, requirements analysis, design, code-based development, integration and test, implementation, operation and maintenance, and termination.
-	- #### Marketing Analytics
+	- #### Marketing Analytics (6 ECTS)
 		- The primary goal of this course is the learning of quantitative analytical methods and concepts that lead to the improvement of marketing decisions. In the lectures accompanying exercises and mentors, students gain the competence of independent application of analytical methods and concepts. In addition, the practical relevance of the learned methods and concepts is demonstrated by numerous case studies and practical lectures. 
 	- #### Introudction to Information Management (5 ECTS) [Python]
 		- First, application systems and information systems as weil as the basic idea of standard business processes and their support by ERP systems are covered. The second part of the lecture addresses basic knowledge related to data management. The concept of data modeling is captured by an introduction to the Entity-Relationship-Model. The understanding of this basic topic is supplemented by the practical application of databases. Subsequently, an introduction to computers and programming is given, utilizing the programming language Python.
@@ -85,9 +85,9 @@ Dimensionality reduction and visualization techniques such as principal componen
 - ## 3 Online Courses: 
 
 	- #### Introduction to Python
-		- [XYZ]
+		- Datacamp.com: In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. 
 	- #### Intro to SQL for Data Science
-		- [XYZ]
+		- Datacamp.com: This course teaches you everything you need to know to begin working with databases today
 
 
 
