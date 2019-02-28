@@ -64,30 +64,30 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 		parameter estimation; confidence intervals; statistical tests; further specific
 		test problems; linear regression model
 		
-	- Mathematics (10ECTS)
+	- #### Mathematics (10ECTS)
 		- The main focus areas of this course are linear algebra {including, amongst others, matrix calculus, matrix inverse, determinants of matrices, linear systems of equations, vector calculus), sequences and series as well as differential calculus {including, amongst others, differentiation of real functions, Taylor expansions, univariate and multivariate optimization of functions without and with constraint {Lagrange method). 
-	- Databases (5 ECTS) [SQL]
+	- #### Databases (5 ECTS) [SQL]
 		- This course offers an in-depth discussion of modern database system architectures and query language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). Other topics covered are data integrity, integrity constraints, and database design.
-	- ### Introduction to Data Science
+	- #### Introduction to Data Science
 		- [XYZ]
-	- ### Navigating Complexity: Mapping, Visualisation & Decision- making
+	- #### Navigating Complexity: Mapping, Visualisation & Decision- making
 		- [XYZ]
-	- ### Big Data Processes
+	- #### Big Data Processes
 		- [XYZ]
-	- ### Foundations of Development of IT
+	- #### Foundations of Development of IT
 		- [XYZ]
-	- ### Marketing Analytics
+	- #### Marketing Analytics
 		- [XYZ]
-	- ### Introudction to Information Management (5 ECTS) [Python]
+	- #### Introudction to Information Management (5 ECTS) [Python]
 		- First, application systems and information systems as weil as the basic idea of standard business processes and their support by ERP systems are covered. The second part of the lecture addresses basic knowledge related to data management. The concept of data modeling is captured by an introduction to the Entity-Relationship-Model. The understanding of this basic topic is supplemented by the practical application of databases. Subsequently, an introduction to computers and programming is given, utilizing the programming language Python.
-	- ### Business Information Systems 2
+	- #### Business Information Systems 2
 		- [XYZ]
 
 - ### Data Science relevant Online Courses: 
 
-	- ### Introduction to Python
+	- #### Introduction to Python
 		- [XYZ]
-	- ### Intro to SQL for Data Science
+	- #### Intro to SQL for Data Science
 		- [XYZ]
 
 
