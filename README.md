@@ -8,7 +8,7 @@ If you like what you see here and you want to have a chat with me about my portf
 - ### Machine Learning [Python]
 	- [k-Nearest-Neighbor](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 
-	_Tools: scikit-learn, Pandas, Matplotlib, Pygame_ 
+	_Tools: scikit-learn, Matplotlib_ 
 
 
 - ### Data Analysis and Visualisation [Python]
