@@ -51,7 +51,11 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 - ### Data Science relevant Academic Courses: 
 
 	- Statistics
-		- [XYZ]
+		- Descriptive methods of univariate data analysis; additional methods and
+		correlation analysis; probability calculus; stochastic variables and
+		distribution, distribution models; sums and means of sampling variables;
+		parameter estimation; confidence intervals; statistical tests; further specific
+		test problems; linear regression model
 	- Mathematics
 		- [XYZ]
 	- Databases
@@ -65,6 +69,10 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 	- Foundations of Development of IT
 		- [XYZ]
 	- Marketing Analytics
+		- [XYZ]
+	- Introudction to Information Management
+		- [XYZ]
+	- Business Information Systems 2
 		- [XYZ]
 
 - ### Data Science relevant Online Courses: 
