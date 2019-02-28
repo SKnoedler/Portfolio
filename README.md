@@ -58,11 +58,12 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 		decisions. In particular the linear regression model allows the measurement
 		and modeling of economic contexts.
 		
-		Descriptive methods of univariate data analysis; additional methods and
+		- Descriptive methods of univariate data analysis; additional methods and
 		correlation analysis; probability calculus; stochastic variables and
 		distribution, distribution models; sums and means of sampling variables;
 		parameter estimation; confidence intervals; statistical tests; further specific
 		test problems; linear regression model
+		
 	- Mathematics (10ECTS)
 		- [XYZ]
 	- Databases
