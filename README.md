@@ -33,7 +33,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 ## 3) Academic Courses:
-- #### Statistics (15 ECTS)
+<details><summary>- #### Statistics (15 ECTS)</summary>
 	- Descriptive methods of univariate data analysis; additional methods and
 		correlation analysis; probability calculus; stochastic variables and
 		distribution, distribution models; sums and means of sampling variables;
