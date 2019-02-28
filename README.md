@@ -1,5 +1,5 @@
 # Data Science Portfolio  
-This is and overview of my Data Science projects completed by me for academic, self learning, and hobby purposes
+This is and overview of my Data Science projects which I completed for academic, self-learning, and hobby purposes.
 
 If you like what you see here and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](st.knoedler@gmail.com) 
 
