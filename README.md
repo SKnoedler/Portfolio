@@ -32,9 +32,9 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 
-## 3) Academic Courses: 
+## 3) Academic Courses:
 - #### Statistics (15 ECTS)
-		- Descriptive methods of univariate data analysis; additional methods and
+	- Descriptive methods of univariate data analysis; additional methods and
 		correlation analysis; probability calculus; stochastic variables and
 		distribution, distribution models; sums and means of sampling variables;
 		parameter estimation; confidence intervals; statistical tests; further specific
@@ -63,11 +63,11 @@ Dimensionality reduction and visualization techniques such as principal componen
 
 
 ## 4) Online Courses: 
-
 - #### Introduction to Python
-		- Datacamp.com: In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. 
-	- #### Intro to SQL for Data Science
-		- Datacamp.com: This course teaches you everything you need to know to begin working with databases today
+	- Datacamp.com: In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. 
+	
+- #### Intro to SQL for Data Science
+	- Datacamp.com: This course teaches you everything you need to know to begin working with databases today
 
 
 
