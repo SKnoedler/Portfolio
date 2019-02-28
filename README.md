@@ -71,9 +71,8 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 		- The main focus areas of this course are linear algebra {including, amongst others, matrix calculus, matrix inverse, determinants of matrices, linear systems of equations, vector calculus), sequences and series as well as differential calculus {including, amongst others, differentiation of real functions, Taylor expansions, univariate and multivariate optimization of functions without and with constraint {Lagrange method). 
 	- #### Databases (5 ECTS) [SQL]
 		- This course offers an in-depth discussion of modern database system architectures and query language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). Other topics covered are data integrity, integrity constraints, and database design.
-	- #### Introduction to Data Science
-		- The course covers the following tentative topic list:
-- Foundations of statistical learning, probability theory; Classification methods, such as: Linear models, K-Nearest Neighbor; Regression methods, such as: Linear regression; Bayesian Statistics; Clustering.
+	- #### Introduction to Data Science [Python]
+		- The course covers the following tentative topic list: Foundations of statistical learning, probability theory; Classification methods, such as: Linear models, K-Nearest Neighbor; Regression methods, such as: Linear regression; Bayesian Statistics; Clustering.
 Dimensionality reduction and visualization techniques such as principal component analysis (PCA).
 	- #### Navigating Complexity: Mapping, Visualisation & Decision- making
 		- The course will teach students to describe and analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation. Students will be introduced to a range of conceptual and technical tools for generating and visualizing data and analyzing complexity. Throughout the course students will experiment with different techniques for generating data and visualizing complexity. Based on case work, students will be requested to reflect on how visualizations work as simplifications and can inform decision-making.
