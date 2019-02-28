@@ -1,5 +1,6 @@
 # Data Science Portfolio  [TEMPLATE]
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
+This is and overview of my Data Science projects completed by me for academic, self learning, and hobby purposes
+
 If you like what you see here and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an email at st.knoedler@gmail.com 
 
 Please also take a look at my website where you can find my CV as well as a more general description of my Data Science skills -[sknoedler.github.io](http://sknoedler.github.io)
