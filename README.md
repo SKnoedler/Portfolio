@@ -66,8 +66,8 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 		
 	- Mathematics (10ECTS)
 		- [XYZ]
-	- Databases
-		- [XYZ]
+	- Databases (5 ECTS)
+		- Databases are the foundation of modern information systems, both in classic industries as weil as in e-business. 			Examples for database driven information systems are ERP, SCM and BI Systems. As databases offer a fundamental platform 		for efficient support of business processes, their design and integration has to be carefully planned and executed. This 	 	 lecture addresses this issue and offers an in-depth discussion of modern database system architectures and query 			language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). 			Other topics covered are data integrity, integrity constraints, and database design.
 	- Introduction to Data Science
 		- [XYZ]
 	- Navigating Complexity: Mapping, Visualisation & Decision- making
