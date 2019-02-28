@@ -51,7 +51,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 - ### Data Science relevant Academic Courses: 
 
 	- Statistics (15 ECTS)
-		- At the beginning descriptive methods for preparation and analysis of
+		- At the beginning, descriptive methods for preparation and analysis of
 		economic data are provided. Then probability and distribution theory is
 		introduced for the modeling of random. Moreover, estimation and testing
 		methods are being studied that allow making data-driven economic
@@ -65,9 +65,9 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 		test problems; linear regression model
 		
 	- Mathematics (10ECTS)
-		- [XYZ]
+		- The main focus areas of this course are linear algebra {including, amongst others, matrix calculus, matrix inverse, determinants of matrices, linear systems of equations, vector calculus), sequences and series as well as differential calculus {including, amongst others, differentiation of real functions, Taylor expansions, univariate and multivariate optimization of functions without and with constraint {Lagrange method). 
 	- Databases (5 ECTS) [SQL]
-		- As databases offer a fundamental platform for efficient support of business processes, their design and integration has to be carefully planned and executed. This lecture addresses this issue and offers an in-depth discussion of modern database system architectures and query language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). Other topics covered are data integrity, integrity constraints, and database design.
+		- This course offers an in-depth discussion of modern database system architectures and query language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). Other topics covered are data integrity, integrity constraints, and database design.
 	- ### Introduction to Data Science
 		- [XYZ]
 	- ### Navigating Complexity: Mapping, Visualisation & Decision- making
@@ -79,7 +79,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 	- ### Marketing Analytics
 		- [XYZ]
 	- ### Introudction to Information Management (5 ECTS) [Python]
-		- First, application systems and information systems as weil as the basic idea of standard business processes and their support by ERP systems are covered. The second part of the lecture addresses basic knowledge related to data management. The concept of data modeling is captured by an introduction to the Entity-Relationship-Model. The understanding of this basic topic is supplemented by the practical application of databases. Subsequently, an introduction to computers and programming is given, utilizing the programming language Python. The last part of the lecture deals with communication systems and their application in the fields of e-Business and e-Markets. Basic concepts of the Internet, the World Wide Web (WWW) and the realization of e-Business solutions are also presented.
+		- First, application systems and information systems as weil as the basic idea of standard business processes and their support by ERP systems are covered. The second part of the lecture addresses basic knowledge related to data management. The concept of data modeling is captured by an introduction to the Entity-Relationship-Model. The understanding of this basic topic is supplemented by the practical application of databases. Subsequently, an introduction to computers and programming is given, utilizing the programming language Python.
 	- ### Business Information Systems 2
 		- [XYZ]
 
