@@ -9,11 +9,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Statistics Basics
 
+
 - ### SQL Basics
 
-
-
-## Contents
 
 - ### Machine Learning
 
@@ -48,6 +46,26 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- __R__
 		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Predicting XYZ
+		
+
+- ### Data Science relevant Academic Courses: 
+
+	- Introduction to Data Science
+		- [XYZ]
+	- Introduction to Data Science
+		- [XYZ]
+	- Introduction to Data Science
+		- [XYZ]
+	- Introduction to Data Science
+		- [XYZ]
+	- Introduction to Data Science
+		- [XYZ]
+	- Introduction to Data Science
+		- [XYZ]
+	- Introduction to Data Science
+		- [XYZ]
+	- Introduction to Data Science
+		- [XYZ]
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, write me an email at st.knoedler@gmail.com 
