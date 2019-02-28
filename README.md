@@ -48,6 +48,7 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 		- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Predicting XYZ
 		
 
+
 - ## Completed Academic Courses: 
 
 	- #### Statistics (15 ECTS)
@@ -83,7 +84,9 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 	- #### Business Information Systems 2
 		- [XYZ]
 
-- ## DOnline Courses: 
+
+
+- ## Online Courses: 
 
 	- #### Introduction to Python
 		- [XYZ]
