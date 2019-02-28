@@ -50,21 +50,28 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 
 - ### Data Science relevant Academic Courses: 
 
-	- Introduction to Data Science
+	- Statistics
+		- [XYZ]
+	- Mathematics
+		- [XYZ]
+	- Databases
 		- [XYZ]
 	- Introduction to Data Science
 		- [XYZ]
-	- Introduction to Data Science
+	- Navigating Complexity: Mapping, Visualisation & Decision- making
 		- [XYZ]
-	- Introduction to Data Science
+	- Big Data Processes
 		- [XYZ]
-	- Introduction to Data Science
+	- Foundations of Development of IT
 		- [XYZ]
-	- Introduction to Data Science
+	- Marketing Analytics
 		- [XYZ]
-	- Introduction to Data Science
+
+- ### Data Science relevant Online Courses: 
+
+	- Introduction to Python
 		- [XYZ]
-	- Introduction to Data Science
+	- Intro to SQL for Data Science
 		- [XYZ]
 
 
