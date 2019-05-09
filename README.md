@@ -36,13 +36,24 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 ## 3) Academic Courses:
+### Upcoming Semester in Syracuse, USA:
+- #### Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]
+	- Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
+
+- #### Fundamentals of Data Science
+	- Fundamental methods for data science, such as regression, linear discriminant analysis, k-nearest neighbors, support vector machine, k-means, principal component analysis, and nonlinear dimension reduction. Performance evaluation and model selection. Additional work required of graduate students.
+	
+- ### Managing Information Systems Projects
+	- Project management as a professional discipline in information and communication technology. Introduction to roles, activities, methods, and tools. Critical review and application of principles. Additional work required of graduate students.
+	
+
+### Completed Courses
 - #### Statistics (15 ECTS) 
 	- Descriptive methods of univariate data analysis; additional methods and
 		correlation analysis; probability calculus; stochastic variables and
 		distribution, distribution models; sums and means of sampling variables;
 		parameter estimation; confidence intervals; statistical tests; further specific
 		test problems; linear regression model
-		
 - #### Mathematics (10 ECTS)
 	- The main focus areas of this course are linear algebra {including, amongst others, matrix calculus, matrix inverse, determinants of matrices, linear systems of equations, vector calculus), sequences and series as well as differential calculus {including, amongst others, differentiation of real functions, Taylor expansions, univariate and multivariate optimization of functions without and with constraint {Lagrange method). 
 - #### Databases (5 ECTS) [SQL]
@@ -52,8 +63,6 @@ If you like what you see here and you want to have a chat with me about my portf
 Dimensionality reduction and visualization techniques such as principal component analysis (PCA).
 - #### Navigating Complexity: Mapping, Visualisation & Decision- making (15 ECTS) [Tableau, Gephi, WebCrawler]
 	- The course will teach students to describe and analyse complexity within an empirical case. Students will be introduced to a range of conceptual and technical tools for generating and visualizing data and analyzing complexity. Throughout the course students will experiment with different techniques for generating data and visualizing complexity. Based on case work, students will be requested to reflect on how visualizations work as simplifications and can inform decision-making.
-- #### Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]
-	- Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
 - #### Big Data Processes (7.5 ECTS) [Tableau]
 	- This course covers analytics and visualization (e.g., exploratory data analysis, classification, clustering), as well as challenges of Big Data processes (e.g., handling of personal data). Furthermore, students will practice communicating and presenting of results as well as reflections during the exercises. Students learn to apply a number of software tools for analytics and visualization, such as Tableau and R.
 - #### Foundations of Development of IT [SQL]
