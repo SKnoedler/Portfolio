@@ -36,18 +36,18 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 ## 3) Academic Courses:
-### Upcoming Semester in Syracuse, USA:
+### *Upcoming Semester in Syracuse, USA:*
 - #### Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]
 	- Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
 
 - #### Fundamentals of Data Science
 	- Fundamental methods for data science, such as regression, linear discriminant analysis, k-nearest neighbors, support vector machine, k-means, principal component analysis, and nonlinear dimension reduction. Performance evaluation and model selection. Additional work required of graduate students.
 	
-- ### Managing Information Systems Projects
+- #### Managing Information Systems Projects
 	- Project management as a professional discipline in information and communication technology. Introduction to roles, activities, methods, and tools. Critical review and application of principles. Additional work required of graduate students.
 	
 
-### Completed Courses
+### *Completed Courses*
 - #### Statistics (15 ECTS) 
 	- Descriptive methods of univariate data analysis; additional methods and
 		correlation analysis; probability calculus; stochastic variables and
