@@ -23,7 +23,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 - ### Data Analysis and Visualization [Python]
-	- [Basics No.1](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms
+	- [Basics No.1](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms
 	- (...)
 
 	_Tools: Python(Numpy, Pandas and Matplotlib)_
