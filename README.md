@@ -36,6 +36,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 - ### Independent Projects
 	- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
+	- **Building a Web-Scraper to find a Data Science Job**: I have recently started working on building my first own web scraper. The goal of this small independent project is to automate my job search and integrate useful filters so that I easier better find suitable job postings. 
 
 
 
