@@ -56,54 +56,57 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 ## 3) Academic Courses:
-### *Upcoming Semester in Syracuse, USA:*
-- #### Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]
-	- Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
-
-- #### Fundamentals of Data Science
-	- Fundamental methods for data science, such as regression, linear discriminant analysis, k-nearest neighbors, support vector machine, k-means, principal component analysis, and nonlinear dimension reduction. Performance evaluation and model selection. Additional work required of graduate students.
-	
-- #### Managing Information Systems Projects
-	- Project management as a professional discipline in information and communication technology. Introduction to roles, activities, methods, and tools. Critical review and application of principles. Additional work required of graduate students.
-	
+### *Expected Courses at Univiersty of Syracuse, USA (Fall 2019):*
+<details>
+<summary> Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]
+Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
+</details>
+<details>
+<summary> Fundamentals of Data Science
+Fundamental methods for data science, such as regression, linear discriminant analysis, k-nearest neighbors, support vector machine, k-means, principal component analysis, and nonlinear dimension reduction. Performance evaluation and model selection. Additional work required of graduate students.
+</details>
+<details>
+<summary> Managing Information Systems Projects
+Project management as a professional discipline in information and communication technology. Introduction to roles, activities, methods, and tools. Critical review and application of principles. Additional work required of graduate students.
+</details>	
 
 ### *Completed Courses*
 <details>
 <summary> Statistics (15 ECTS)</summary>
-	Descriptive methods of univariate data analysis; additional methods and
-		correlation analysis; probability calculus; stochastic variables and
-		distribution, distribution models; sums and means of sampling variables;
-		parameter estimation; confidence intervals; statistical tests; further specific
-		test problems; linear regression model
+Descriptive methods of univariate data analysis; additional methods and
+correlation analysis; probability calculus; stochastic variables and
+distribution, distribution models; sums and means of sampling variables;
+parameter estimation; confidence intervals; statistical tests; further specific
+test problems; linear regression model
 </details>
 <details>
 <summary> Mathematics (10 ECTS)</summary>
-	- The main focus areas of this course are linear algebra {including, amongst others, matrix calculus, matrix inverse, determinants of matrices, linear systems of equations, vector calculus), sequences and series as well as differential calculus {including, amongst others, differentiation of real functions, Taylor expansions, univariate and multivariate optimization of functions without and with constraint {Lagrange method). 
+The main focus areas of this course are linear algebra {including, amongst others, matrix calculus, matrix inverse, determinants of matrices, linear systems of equations, vector calculus), sequences and series as well as differential calculus {including, amongst others, differentiation of real functions, Taylor expansions, univariate and multivariate optimization of functions without and with constraint {Lagrange method). 
 </details>
 <details>
 <summary> Databases (5 ECTS) [SQL]</summary>
-	- This course offers an in-depth discussion of modern database system architectures and query language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). Other topics covered are data integrity, integrity constraints, and database design.
+This course offers an in-depth discussion of modern database system architectures and query language for use in databases. The focus lies on the relational databases model and relational query languages (SQL). Other topics covered are data integrity, integrity constraints, and database design.
 </details>
 <details>
 <summary> Introduction to Data Science (7.5 ECTS) [Python]</summary>
-	- The course covers the following tentative topic list: Foundations of statistical learning, probability theory; Classification methods, such as: Linear models, K-Nearest Neighbor; Regression methods, such as: Linear regression; Bayesian Statistics; Clustering.
+The course covers the following tentative topic list: Foundations of statistical learning, probability theory; Classification methods, such as: Linear models, K-Nearest Neighbor; Regression methods, such as: Linear regression; Bayesian Statistics; Clustering.
 Dimensionality reduction and visualization techniques such as principal component analysis (PCA).
 </details>
 <details>
 <summary> Navigating Complexity: Mapping, Visualisation & Decision- making (15 ECTS) [Tableau, Gephi, WebCrawler]</summary>
-	- The course will teach students to describe and analyse complexity within an empirical case. Students will be introduced to a range of conceptual and technical tools for generating and visualizing data and analyzing complexity. Throughout the course students will experiment with different techniques for generating data and visualizing complexity. Based on case work, students will be requested to reflect on how visualizations work as simplifications and can inform decision-making.
+The course will teach students to describe and analyse complexity within an empirical case. Students will be introduced to a range of conceptual and technical tools for generating and visualizing data and analyzing complexity. Throughout the course students will experiment with different techniques for generating data and visualizing complexity. Based on case work, students will be requested to reflect on how visualizations work as simplifications and can inform decision-making.
 </details>
 <details>
 <summary> Big Data Processes (7.5 ECTS) [Tableau]</summary>
-	- This course covers analytics and visualization (e.g., exploratory data analysis, classification, clustering), as well as challenges of Big Data processes (e.g., handling of personal data). Furthermore, students will practice communicating and presenting of results as well as reflections during the exercises. Students learn to apply a number of software tools for analytics and visualization, such as Tableau and R.
+This course covers analytics and visualization (e.g., exploratory data analysis, classification, clustering), as well as challenges of Big Data processes (e.g., handling of personal data). Furthermore, students will practice communicating and presenting of results as well as reflections during the exercises. Students learn to apply a number of software tools for analytics and visualization, such as Tableau and R.
 </details>
 <details>
 <summary> Foundations of Development of IT [SQL]</summary>
-	- This course covers and deals with each phase in the IT development cycle individually. The cycle will be broken down into themes: initiation, system concept development, planning, requirements analysis, design, code-based development, integration and test, implementation, operation and maintenance, and termination.
+This course covers and deals with each phase in the IT development cycle individually. The cycle will be broken down into themes: initiation, system concept development, planning, requirements analysis, design, code-based development, integration and test, implementation, operation and maintenance, and termination.
 </details>
 <details>
 <summary> Marketing Analytics (6 ECTS)</summary>
-	- The primary goal of this course is the learning of quantitative analytical methods and concepts that lead to the improvement of marketing decisions. In the lectures accompanying exercises and mentors, students gain the competence of independent application of analytical methods and concepts. In addition, the practical relevance of the learned methods and concepts is demonstrated by numerous case studies and practical lectures. 
+The primary goal of this course is the learning of quantitative analytical methods and concepts that lead to the improvement of marketing decisions. In the lectures accompanying exercises and mentors, students gain the competence of independent application of analytical methods and concepts. In addition, the practical relevance of the learned methods and concepts is demonstrated by numerous case studies and practical lectures. 
 </details>
 <details>
 <summary> Introduction to Information Management (5 ECTS) [Python]</summary>
