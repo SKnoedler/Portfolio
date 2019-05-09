@@ -62,7 +62,7 @@ If you like what you see here and you want to have a chat with me about my portf
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
 </details>
 <details>
-<summary> Fundamentals of Data Science</summary>
+<summary> Fundamentals of Data Science [Python]</summary>
 Fundamental methods for data science, such as regression, linear discriminant analysis, k-nearest neighbors, support vector machine, k-means, principal component analysis, and nonlinear dimension reduction. Performance evaluation and model selection. Additional work required of graduate students.
 </details>
 <details>
