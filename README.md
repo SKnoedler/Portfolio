@@ -21,7 +21,7 @@ physicochemical properties using linear regression.
 	- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat.
 	- **Gradient Descent**: to be added
 
-	_Tools: scikit-learn, Matplotlib_ 
+	_Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
 
 - ### Data Analysis and Visualization [Python]
