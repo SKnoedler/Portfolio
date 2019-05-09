@@ -49,7 +49,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	- **Bayesian Statistics**: The idea behind bayesion statistics and how it differs to frequency statistics.
 
 - ### SQL (content will be added in June 2019)
-	- *Examples of advanced SQL statements*: In this section, I will explain more advance SQL statements. Therefore, I skip the basics and show examples that are likely needed.
+	- **Examples of advanced SQL statements**: In this section, I will explain more advance SQL statements. Therefore, I skip the basics and show examples that are likely needed.
 
 
 
