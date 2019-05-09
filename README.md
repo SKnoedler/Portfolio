@@ -31,7 +31,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	_Tools: Python(Numpy and Matplotlib)_
 
 - ### Academic Papers 
-	- [Airbnb Data Analysis]: I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
+	- **Airbnb Data Analysis**: I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
 	
 	_Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
