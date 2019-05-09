@@ -26,7 +26,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	_Tools: Python(Numpy and Matplotlib)_
 
 - ### Academic Papers 
-	- [Airbnb Data Analysis](https://github.com/steffen/.../prediction1.ipynb): I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
+	- [Airbnb Data Analysis]: I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
 	
 	_Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
@@ -38,10 +38,15 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ## 2) Fundamentals
 - ### Statistics
-	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
+	- [Statistical Features](https://github.com/steffen/.../prediction1.ipynb): Bias, variance, mean, median, percentiles, and many other features explained.
+	- [Hypothesis Tests](https://github.com/steffen/.../prediction1.ipynb): This section explains how hypothesis tests work and how to understand and interpret results.
+	- [Probability Distributions](https://github.com/steffen/.../prediction1.ipynb): Uniform- , Normal/ Gaussian- and Poisson Distribution will be explained here.
+	- [Dimensionality Reduction](https://github.com/steffen/.../prediction1.ipynb): This section explains the concept of dimensionality reduction.
+	- [Frequency Statistics](https://github.com/steffen/.../prediction1.ipynb): The concept of frequency statistics is explained.
+	- [Bayesian Statistics](https://github.com/steffen/.../prediction1.ipynb): The idea behind bayesion statistics and how it differs to frequency statistics.
 
 - ### SQL
-	- [XYZ](https://github.com/steffen/.../prediction1.ipynb): Description
+	- [Examples of advanced SQL statements](https://github.com/steffen/.../prediction1.ipynb): In this section, I will explain more advance SQL statements. Therefore, I skip the basics and show examples that are likely needed.
 
 
 
