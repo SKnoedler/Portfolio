@@ -7,17 +7,28 @@ If you like what you see here and you want to have a chat with me about my portf
 ## 1) Projects
 - ### Machine Learning [Python]
 	- [k-Nearest-Neighbor](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [Linear Regression](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [Logistic Regression](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [K-means](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [Principal Component Analysis (PCA)](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [Random Forest](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [Gradient Descent](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 
 	_Tools: scikit-learn, Matplotlib_ 
 
 
 - ### Data Analysis and Visualisation [Python]
-	- [Boxplot](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
-	- [Hypothesis Testing](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
-	- [Correlation](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
-	- [Histograms](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [Boxplot](https://github.com/steffen/.../prediction1.ipynb): Code and description will be added later
+	- [Hypothesis Testing](https://github.com/steffen/.../prediction1.ipynb): Code and description will be added later
+	- [Correlation](https://github.com/steffen/.../prediction1.ipynb): Code and description will be added later
+	- [Histograms](https://github.com/steffen/.../prediction1.ipynb): Code and description will be added later
 
-	_Tools: Numpy and Matplotlib_
+	_Tools: Python(Numpy and Matplotlib)_
+
+- ### Academic Papers 
+	- [Airbnb Data Analysis](https://github.com/steffen/.../prediction1.ipynb): I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
+	
+	_Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 
 - ### Independent Projects
