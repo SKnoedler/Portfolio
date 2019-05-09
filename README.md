@@ -11,7 +11,9 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ## 1) Projects
 - ### Machine Learning [Python]
-	- [k-Nearest-Neighbor](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Nearest%20Neighbour%20Classfication.ipynb): taken from a number of images of wheat fields taken by a drone carrying a 3K by 4K Canon Powershot camera. The flying height was 30 meters. A number of image patches, all showing a field area of 3x3 meters were extracted. Approximately half of the patches showed crop, the remaining thistles. For each patch only the central 1x1 meter sub-patch is used for performance measurement. The full patch was presented to an expert from agriculture and classified as showing either weed (class 0) or only crop (class 1).
+	- [k-Nearest-Neighbor](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Nearest%20Neighbour%20Classfication.ipynb): 
+	**To do:** In this project, I will perform classification with the nearest neighbor classifier, a non-linear, non-parametric method for classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
+	**Data:** The data is taken from a number of images of wheat fields taken by a drone carrying a 3K by 4K Canon Powershot camera. The flying height was 30 meters. A number of image patches, all showing a field area of 3x3 meters were extracted. Approximately half of the patches showed crop, the remaining thistles. For each patch only the central 1x1 meter sub-patch is used for performance measurement. The full patch was presented to an expert from agriculture and classified as showing either weed (class 0) or only crop (class 1).
 	- [Linear Regression](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 	- [Logistic Regression](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 	- [K-means](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
