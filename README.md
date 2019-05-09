@@ -1,5 +1,6 @@
-# Data Science Portfolio (!under construction!)
--------------------- The portfolio is incomplete and man jupyter notebooks will be updated in June 2019 -------------------- 
+# Data Science Portfolio (under construction!)
+
+-------------------- *The portfolio is incomplete and man jupyter notebooks will be updated in June 2019* -------------------- 
 
 This is an overview of my Data Science knowledge as well as a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes.
 
