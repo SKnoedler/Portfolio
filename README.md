@@ -22,13 +22,11 @@ If you like what you see here and you want to have a chat with me about my portf
 	_Tools: scikit-learn, Matplotlib_ 
 
 
-- ### Data Analysis and Visualisation [Python]
-	- [Boxplot](https://github.com/steffen/.../prediction1.ipynb): Code and description will be added later
-	- [Hypothesis Testing](https://github.com/steffen/.../prediction1.ipynb): Code and description will be added later
-	- [Correlation](https://github.com/steffen/.../prediction1.ipynb): Code and description will be added later
-	- [Histograms](https://github.com/steffen/.../prediction1.ipynb): Code and description will be added later
+- ### Data Analysis and Visualization [Python]
+	- [Basics No.1](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms
+	- (...)
 
-	_Tools: Python(Numpy and Matplotlib)_
+	_Tools: Python(Numpy, Pandas and Matplotlib)_
 
 - ### Academic Papers 
 	- **Airbnb Data Analysis**: I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
