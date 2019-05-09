@@ -68,12 +68,15 @@ If you like what you see here and you want to have a chat with me about my portf
 	
 
 ### *Completed Courses*
-- #### Statistics (15 ECTS) 
+<details>
+<summary>- #### Statistics (15 ECTS)</summary>
+<br>
 	- Descriptive methods of univariate data analysis; additional methods and
 		correlation analysis; probability calculus; stochastic variables and
 		distribution, distribution models; sums and means of sampling variables;
 		parameter estimation; confidence intervals; statistical tests; further specific
 		test problems; linear regression model
+</details>
 - #### Mathematics (10 ECTS)
 	- The main focus areas of this course are linear algebra {including, amongst others, matrix calculus, matrix inverse, determinants of matrices, linear systems of equations, vector calculus), sequences and series as well as differential calculus {including, amongst others, differentiation of real functions, Taylor expansions, univariate and multivariate optimization of functions without and with constraint {Lagrange method). 
 - #### Databases (5 ECTS) [SQL]
