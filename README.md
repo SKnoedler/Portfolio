@@ -13,10 +13,12 @@ If you like what you see here and you want to have a chat with me about my portf
 - ### Machine Learning [Python]
 	- [k-Nearest-Neighbor](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Nearest%20Neighbour%20Classfication.ipynb): 
 	In this project, I will perform classification with the nearest neighbor classifier, a non-linear, non-parametric method for 		classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
-	- [Linear Regression](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [Multivariate Linear Regression](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Multivariate%20Linear%20Regression.ipynb): Predict the quality score of red wine from its
+physicochemical properties using linear regression.
 	- [Logistic Regression](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
-	- [K-means](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
-	- [Principal Component Analysis (PCA)](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
+	- [K-means](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/KMeans%20Clustering.ipynb): This shows how K-Means can be used to do clustering
+	- [Principal Component Analysis (PCA) I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Principal%20component%20analysis%20(PCA).ipynb): Here it is shown how PCA can be used as for reducing dimensionality and visualizing global dataset structure.
+	- [Principal Component Analysis (PCA) II](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/PCA%202.ipynb): Visualizing the spatial variance of the diatom cells by plotting some instances of the first three PC.
 	- [Random Forest](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 	- [Gradient Descent](https://github.com/steffen/.../prediction1.ipynb): Description of the Project
 
