@@ -58,15 +58,15 @@ If you like what you see here and you want to have a chat with me about my portf
 ## 3) Academic Courses:
 ### *Expected Courses at Univiersty of Syracuse, USA (Fall 2019):*
 <details>
-<summary> Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]
+<summary> Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]</summary>
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
 </details>
 <details>
-<summary> Fundamentals of Data Science
+<summary> Fundamentals of Data Science</summary>
 Fundamental methods for data science, such as regression, linear discriminant analysis, k-nearest neighbors, support vector machine, k-means, principal component analysis, and nonlinear dimension reduction. Performance evaluation and model selection. Additional work required of graduate students.
 </details>
 <details>
-<summary> Managing Information Systems Projects
+<summary> Managing Information Systems Projects</summary>
 Project management as a professional discipline in information and communication technology. Introduction to roles, activities, methods, and tools. Critical review and application of principles. Additional work required of graduate students.
 </details>	
 
@@ -110,11 +110,11 @@ The primary goal of this course is the learning of quantitative analytical metho
 </details>
 <details>
 <summary> Introduction to Information Management (5 ECTS) [Python]</summary>
-	- Application systems and information systems as well as business processes and their support by ERP systems are covered. In addition, the lectures address basic knowledge related to data management as well as the concept of data modeling. Subsequently, an introduction programming is given, utilizing the programming language Python.
+Application systems and information systems as well as business processes and their support by ERP systems are covered. In addition, the lectures address basic knowledge related to data management as well as the concept of data modeling. Subsequently, an introduction programming is given, utilizing the programming language Python.
 </details>
 <details>
 <summary> Business Information Systems (6 ECTS) [SQL]</summary>
-	- This course covers fundamentals, development, and introduction of information and communication systems for enterprises. It includes functionality and architecture and development of ICS as well as Business Process Reeingineering (BPR).
+This course covers fundamentals, development, and introduction of information and communication systems for enterprises. It includes functionality and architecture and development of ICS as well as Business Process Reeingineering (BPR).
 </details>
 
 
