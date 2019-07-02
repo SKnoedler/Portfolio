@@ -1,7 +1,7 @@
 # Data Science Portfolio (under construction!)
 
 
------------ *The portfolio is incomplete, additional pages & jupyter notebooks will be added in June 2019* ----------- 
+----------- *The portfolio is incomplete, additional pages & jupyter notebooks will be added in July 2019* ----------- 
 
 
 This is an overview of my Data Science knowledge as well as a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes.
@@ -38,12 +38,11 @@ physicochemical properties using linear regression.
 
 - ### Independent Projects
 	- [Deep Probabilistic Programming Post](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
-	- **Building a Web-Scraper to find a Data Science Job**: I have recently started working on building my first own web scraper. The goal of this small independent project is to automate my job search and integrate useful filters so that I only need to go through relevant job offerings. (Project will be continued in July & I will add the code as soon as possible)
 
 
 
 ## 2) Fundamentals
-- ### Statistics (content will be added in June 2019)
+- ### Statistics (content will be added in July 2019)
 	- **Statistical Features**: Bias, variance, mean, median, percentiles, and many other features explained.
 	- **Probability Distributions**: Uniform- , Normal/ Gaussian- and Poisson Distribution will be explained here.
 	- **Hypothesis Tests**: This section explains how the most common statistical hypothesis tests work as well as how to understand and interpret test values.
