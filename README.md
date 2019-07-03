@@ -26,7 +26,6 @@ physicochemical properties using linear regression.
 
 - ### Data Analysis and Visualization [Python]
 	- [Basics No.1](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms
-	- (...)
 
 	_Tools: Python(Numpy, Pandas and Matplotlib)_
 
@@ -50,8 +49,8 @@ physicochemical properties using linear regression.
 	- **Frequency Statistics**: The concept of frequency statistics is explained.
 	- **Bayesian Statistics**: The idea behind bayesion statistics and how it differs to frequency statistics.
 
-- ### Python
-	- [Basics](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
+- ### Python Programming
+	- [Basics](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20of%20Python.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
 
 
 
