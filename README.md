@@ -50,8 +50,8 @@ physicochemical properties using linear regression.
 	- **Frequency Statistics**: The concept of frequency statistics is explained.
 	- **Bayesian Statistics**: The idea behind bayesion statistics and how it differs to frequency statistics.
 
-- ### SQL (content will be added in June 2019)
-	- **Examples of advanced SQL statements**: In this section, I will explain more advance SQL statements. Therefore, I skip the basics and show examples that are likely needed.
+- ### Python
+	- [Basics](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
 
 
 
