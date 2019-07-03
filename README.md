@@ -42,7 +42,7 @@ physicochemical properties using linear regression.
 
 ## 2) Fundamentals
 - ### Statistics (content will be added in July 2019)
-	- **Statistical Features**: Bias, variance, mean, median, percentiles, and many other features explained.
+	- [Basics](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): mean, median, percentiles, and many other features explained.
 	- **Probability Distributions**: Uniform- , Normal/ Gaussian- and Poisson Distribution will be explained here.
 	- **Hypothesis Tests**: This section explains how the most common statistical hypothesis tests work as well as how to understand and interpret test values.
 	- **Dimensionality Reduction**: This section explains the concept of dimensionality reduction.
