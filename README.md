@@ -26,7 +26,7 @@ physicochemical properties using linear regression.
 	- [Basics No.1](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms	_Tools: Python(Numpy, Pandas and Matplotlib)_
 
 - ### Academic Papers 
-	- [AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
+	- [AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). 
 _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 
