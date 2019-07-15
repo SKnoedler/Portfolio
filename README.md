@@ -28,12 +28,12 @@ physicochemical properties using linear regression.
 	_Tools: Python(Numpy, Pandas and Matplotlib)_
 
 - ### Academic Papers 
-	- **Airbnb Data Analysis**: I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
+	- [AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I am currently working on an analysis that covers an Airbnb dataset of over 31,000 data records. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). The report will be posted later.
 	
 	_Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 
-- ### Articles
+- ### LinkedIn Articles
 	- [Deep Probabilistic Programming Post](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
 	- [Job Web Crawler](https://www.linkedin.com/pulse/data-project-who-looking-enthusiasts-frankfurt-germany-kn%C3%B6dler): A couple of days ago, I've decided to build my very first web crawler to collect information about jobs in my home city, Frankfurt. In this short post, I would like to share with you some knowledge about how to crawl data from webpages as well as some thoughts on the results of my very short analysis.
 
