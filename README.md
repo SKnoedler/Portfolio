@@ -36,7 +36,7 @@ _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 
 ## 2) Fundamentals
-- ### Statistics (content will be added soon)
+- ### Statistics
 	- [Fundamentals](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20Basics.pdf): mean, median, percentiles, and many other features explained.
 	- **Probability Distributions**: Uniform- , Normal/ Gaussian- and Poisson Distribution will be explained here.
 	- **Hypothesis Tests**: This section explains how the most common statistical hypothesis tests work as well as how to understand and interpret test values.
