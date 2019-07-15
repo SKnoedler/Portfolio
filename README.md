@@ -1,7 +1,7 @@
 # Data Science Portfolio (under construction!)
 
 
------------ *The portfolio is incomplete, additional pages & jupyter notebooks will be added in July 2019* ----------- 
+----------- *The portfolio is incomplete, additional pages & jupyter notebooks will be added* ----------- 
 
 
 This is an overview of my Data Science knowledge as well as a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes.
@@ -19,8 +19,6 @@ physicochemical properties using linear regression.
 	- [Principal Component Analysis (PCA) I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Principal%20component%20analysis%20(PCA).ipynb): Here it is shown how PCA can be used as for reducing dimensionality and visualizing global dataset structure.
 	- [Principal Component Analysis (PCA) II](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/PCA%202.ipynb): Visualizing the spatial variance of the diatom cells by plotting some instances of the first three PC.
 	- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat.
-	- **Gradient Descent**: to be added
-
 	_Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
 
@@ -35,14 +33,14 @@ physicochemical properties using linear regression.
 	_Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 
-- ### Independent Projects
+- ### Articles
 	- [Deep Probabilistic Programming Post](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
-
+	- [Job Web Crawler](https://www.linkedin.com/pulse/data-project-who-looking-enthusiasts-frankfurt-germany-kn%C3%B6dler): A couple of days ago, I've decided to build my very first web crawler to collect information about jobs in my home city, Frankfurt. In this short post, I would like to share with you some knowledge about how to crawl data from webpages as well as some thoughts on the results of my very short analysis.
 
 
 ## 2) Fundamentals
 - ### Statistics (content will be added in July 2019)
-	- [Basics](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20Basics.pdf): mean, median, percentiles, and many other features explained.
+	- [Fundamentals](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20Basics.pdf): mean, median, percentiles, and many other features explained.
 	- **Probability Distributions**: Uniform- , Normal/ Gaussian- and Poisson Distribution will be explained here.
 	- **Hypothesis Tests**: This section explains how the most common statistical hypothesis tests work as well as how to understand and interpret test values.
 	- **Dimensionality Reduction**: This section explains the concept of dimensionality reduction.
@@ -50,7 +48,7 @@ physicochemical properties using linear regression.
 	- **Bayesian Statistics**: The idea behind bayesion statistics and how it differs to frequency statistics.
 
 - ### Python Programming
-	- [Basics](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20of%20Python.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
+	- [Rules](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20of%20Python.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
 
 
 
@@ -58,16 +56,16 @@ physicochemical properties using linear regression.
 ## 3) Academic Courses:
 ### *Expected Courses at Univiersty of Syracuse, USA (Fall 2019):*
 <details>
-<summary> Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]</summary>
+<summary> Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib), R]</summary>
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
 </details>
 <details>
-<summary> Fundamentals of Data Science [Python]</summary>
-Fundamental methods for data science, such as regression, linear discriminant analysis, k-nearest neighbors, support vector machine, k-means, principal component analysis, and nonlinear dimension reduction. Performance evaluation and model selection. Additional work required of graduate students.
+<summary> Data Analytics [Python, R]</summary>
+General overview in data analytics techniques, familiarity with particular real-world applications, challenges involved in applications, and future directions of the field. Optional hands-on experience with available software packages.
 </details>
 <details>
-<summary> Managing Information Systems Projects</summary>
-Project management as a professional discipline in information and communication technology. Introduction to roles, activities, methods, and tools. Critical review and application of principles. Additional work required of graduate students.
+<summary> Cloud Management</summary>
+Cloud services creation and management. Practical experience in using, creating and managing digital services across data centers and hybrid clouds. Strategic choices for cloud digital service solutions across open data centers and software defined networks.
 </details>	
 
 ### *Completed Courses*
