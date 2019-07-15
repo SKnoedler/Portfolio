@@ -120,6 +120,12 @@ This course covers fundamentals, development, and introduction of information an
 - #### Intro to SQL for Data Science
 	- Datacamp.com: This course teaches you everything you need to know to begin working with databases today
 
+- #### Python Programming
+	- Codeacademy.com: This course teaches you everything you need to know to work with the programming language PYthon
+
+- #### Python Bootcamp
+	- Udemy.com: Python Bootcamp: Vom Anfänger zum Profi, inkl. Data Science
+
 
 
 
