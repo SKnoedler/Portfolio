@@ -44,11 +44,11 @@ _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 	- **Frequency Statistics**: The concept of frequency statistics is explained.
 	- **Bayesian Statistics**: The idea behind bayesion statistics and how it differs to frequency statistics.
 
-- ### Python Programming
-	- [Rules](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20of%20Python.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
+- ### Python Programming Language
+	- [Basics I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20of%20Python.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
 
-
-
+- ### R Programming Language
+	- [Basics I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/R%20Basics.pdf): Basic R syntax; Foundational R programming concepts such as data types, vectors arithmetic, and indexing; operations in R including sorting, data wrangling using dplyr, and making plots
 
 ## 3) Academic Courses:
 ### *Expected Courses at Univiersty of Syracuse, USA (Fall 2019):*
