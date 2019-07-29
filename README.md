@@ -114,6 +114,9 @@ This course covers fundamentals, development, and introduction of information an
 
 
 ## 4) Online Courses: 
+- #### Data Science: R Basics
+	- Harvard Online Course: Build a foundation in R and learn how to wrangle, analyze, and visualize data.
+	
 - #### Introduction to Python
 	- Datacamp.com: In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. 
 	
