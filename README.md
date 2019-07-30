@@ -1,4 +1,4 @@
-# Data Science Portfolio (under construction!)
+# Data Science Portfolio
 
 
 ----------- *The portfolio is incomplete, additional pages & jupyter notebooks will be added* ----------- 
