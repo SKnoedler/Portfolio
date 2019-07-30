@@ -51,7 +51,7 @@ _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 	- [Basics I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/R%20Basics.pdf): Basic R syntax; Foundational R programming concepts such as data types, vectors arithmetic, and indexing; operations in R including sorting, data wrangling using dplyr, and making plots
 
 ## 3) Academic Courses:
-### *Expected Courses at Univiersty of Syracuse, USA (Fall 2019):*
+### *Courses at Univiersty of Syracuse, USA (Fall 2019):*
 <details>
 <summary> Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib), R]</summary>
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
