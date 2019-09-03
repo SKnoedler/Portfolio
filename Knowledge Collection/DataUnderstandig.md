@@ -61,18 +61,14 @@ text documents (e.g. MS word --> text analytics (e.g. word counts: word xy repea
 - Min-max transformation (often called normalization: data is scaled to a fixed range - usually 0 to 1)
 
 ### 2.5 Sampling
-- Sampling when obtaining or analyzing the entire set of data of interest is too expensive or time consuming
-- The sample is representative, meaning it has approx. the same property as the orginial data set
+Sampling when obtaining or analyzing the entire set of data of interest is too expensive or time consuming
+The sample is representative, meaning it has approx. the same property as the orginial data set
 
 --> Therefore, the analysis results on the sample data may be reliably generalized to the entire data set
 
-#### Convenience sampling: 
-- Sample students to represent all students from a university
-#### Random Sampling: 
-- Randomly sample students around campus
-#### Stratified sampling:
-- Sample equal number of students from each school 
-#### Systematic sampling
-- E.g. sort students’ SUID numbers in increasing order, pick the 1st, 11th, 21st, 31st, …, students until 300 students are sampled.
+- Convenience sampling: Sample students to represent all students from a university
+- Random Sampling: Randomly sample students around campus
+- #Stratified sampling:# Sample equal number of students from each school 
+- Systematic sampling: E.g. sort students’ SUID numbers in increasing order, pick the 1st, 11th, 21st, 31st, …, students until 300 students are sampled.
 
 
