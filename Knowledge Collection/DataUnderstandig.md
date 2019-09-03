@@ -66,9 +66,9 @@ The sample is representative, meaning it has approx. the same property as the or
 
 --> Therefore, the analysis results on the sample data may be reliably generalized to the entire data set
 
-- Convenience sampling: Sample students to represent all students from a university
-- Random Sampling: Randomly sample students around campus
-- #Stratified sampling:# Sample equal number of students from each school 
-- Systematic sampling: E.g. sort students’ SUID numbers in increasing order, pick the 1st, 11th, 21st, 31st, …, students until 300 students are sampled.
+- **Convenience sampling:** Sample students to represent all students from a university
+- **Random Sampling:** Randomly sample students around campus
+- **Stratified sampling:** Sample equal number of students from each school 
+- **Systematic sampling:** E.g. sort students’ SUID numbers in increasing order, pick the 1st, 11th, 21st, 31st, …, students until 300 students are sampled.
 
 
