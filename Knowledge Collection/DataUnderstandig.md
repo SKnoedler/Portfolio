@@ -39,16 +39,17 @@ text documents ( e.g. MS word) --> text analytics (e.g. word counts: word xy rep
 --> Paying attention to the data types and convert data types if necessary
 	
 ### 2.2 Data Quality Issues
-Noise (modification of original values)
-Outliers (data objects with characteristics that are considerably different than most of the other data objects --> analyze and decide whether outliers can be excluded)
-Missing Values (information not collected/ not applicable --> eliminate record, ignore value or make estimation)
-Duplicate Data (often when merging data --> clean data)
+- Noise (modification of original values)
+- Outliers (data objects with characteristics that are considerably different than most of the other data objects --> analyze and decide whether outliers can be excluded)
+- Missing Values (information not collected/ not applicable --> eliminate record, ignore value or make estimation)
+- Duplicate Data (often when merging data --> clean data)
 
 ### 2.3 Numeric Variables
-Mean (Average)
-Median (Value that separates the higher half from the lower half of the data sample)Mode (Value that appears most often)
-Standard Deviation (Measure to quantify the amount of variation of a data set)
-Variance (Measure to quantify how far a set of numbers are spread out from their average value)
+- Mean (Average)
+- Median (Value that separates the higher half from the lower half of the data sample)
+- Mode (Value that appears most often)
+- Standard Deviation (Measure to quantify the amount of variation of a data set
+- Variance (Measure to quantify how far a set of numbers are spread out from their average value)
 
 
 ### 2.4 Transformation
@@ -64,13 +65,13 @@ Variance (Measure to quantify how far a set of numbers are spread out from their
 
 --> Therefore, the analysis results on the sample data may be reliably generalized to the entire data set
 
-1. Convenience sampling: 
-- sample students to represent all students from a university
-2. Random Sampling:
+#### Convenience sampling: 
+- Sample students to represent all students from a university
+#### Random Sampling: 
 - Randomly sample students around campus
-3. Stratified sampling:
+#### Stratified sampling:
 - Sample equal number of students from each school 
-4. Systematic sampling
+#### Systematic sampling
 - E.g. sort students’ SUID numbers in increasing order, pick the 1st, 11th, 21st, 31st, …, students until 300 students are sampled.
 
 
