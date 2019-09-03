@@ -10,7 +10,7 @@ column = attribute
 ### 1.2 Non-Record Data: 
 
 #### Text Data:
-text documents ( e.g. MS word) --> text analytics (e.g. word counts: word xy repeat 7 times, just a website = it has equal quality/ value but no structure)
+text documents ( e.g. MS word --> text analytics (e.g. word counts: word xy repeat 7 times)
 
 #### Image Data:
 - image is stored as a sequence of pixels
