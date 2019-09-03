@@ -30,9 +30,9 @@ text documents ( e.g. MS word) --> text analytics (e.g. word counts: word xy rep
  ## 2) Preparing Data for Analysis
 	
 ### 2.1 Understand Variables:
-#### 1.  Nominal Data (used for labeling variables, without any quantitative value)
-#### 2. Ordinal Data (Order with meaning)
-#### 3. Numeric Data (numbers that describe a measurable quantity)
+- Nominal Data (used for labeling variables, without any quantitative value)
+- Ordinal Data (Order with meaning)
+- Numeric Data (numbers that describe a measurable quantity)
 #### 4. Interval (numeric scales in which we know both the order and difference bw. The values, base is fixed)
 #### 5. Ratio (percentage, use data on same scale to better compare, base is not fixed)
 
@@ -49,5 +49,28 @@ Mean (Average)
 Median (Value that separates the higher half from the lower half of the data sample)Mode (Value that appears most often)
 Standard Deviation (Measure to quantify the amount of variation of a data set)
 Variance (Measure to quantify how far a set of numbers are spread out from their average value)
-	
-Z-Score: Adjust for different sizes of populations to better compare numbers - Z(x) = (x-u)/sd
+
+
+### 2.4 Transformation
+- Aggregation
+- Discreatization
+- Log Transformation
+- Z- Score transformation (Adjust for different sizes of populations to better compare numbers - Z(x) = (x-u)/sd)
+- Min-max transformation
+
+### 2.5 Sampling
+- Sampling when obtaining or analyzing the entire set of data of interest is too expensive or time consuming
+- The sample is representative, meaning it has approx. the same property as the orginial data set
+
+--> Therefore, the analysis results on the sample data may be reliably generalized to the entire data set
+
+1. Convenience sampling: 
+- sample students to represent all students from a university
+2. Random Sampling:
+- Randomly sample students around campus
+3. Stratified sampling:
+- Sample equal number of students from each school 
+4. Systematic sampling
+- E.g. sort students’ SUID numbers in increasing order, pick the 1st, 11th, 21st, 31st, …, students until 300 students are sampled.
+
+
