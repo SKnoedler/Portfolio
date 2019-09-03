@@ -22,8 +22,10 @@ physicochemical properties using linear regression.
 	_Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
 
-- ### Data Analysis and Visualization [Python]
-	- [Basics No.1](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms	_Tools: Python(Numpy, Pandas and Matplotlib)_
+- ### Data Analysis and Visualization [Python, R]
+	- [Python Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms	_Tools: Python(Numpy, Pandas and Matplotlib)_
+	- ### Visualization
+	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. _Tools: R(dplyr, ggplot2)_
 
 - ### Academic Papers 
 	- [AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). 
@@ -37,10 +39,7 @@ _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 ## 2) Fundamentals
 - ### Data Understanding
-	- [Fundamentals](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/DataUnderstandig.md): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types that Data Scientists work with.
-
-- ### Visualization
-	- [How to visualize data](https://xxx.com): Includes relevant information about data visualization.
+	- [Basics](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/DataUnderstandig.md): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types that Data Scientists work with.
 
 - ### Statistics
 	- [Fundamentals](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20Basics.pdf): mean, median, percentiles, and many other features explained.
