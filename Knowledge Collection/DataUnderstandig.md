@@ -33,8 +33,8 @@ text documents ( e.g. MS word) --> text analytics (e.g. word counts: word xy rep
 - Nominal Data (used for labeling variables, without any quantitative value)
 - Ordinal Data (Order with meaning)
 - Numeric Data (numbers that describe a measurable quantity)
-#### 4. Interval (numeric scales in which we know both the order and difference bw. The values, base is fixed)
-#### 5. Ratio (percentage, use data on same scale to better compare, base is not fixed)
+- Interval (numeric scales in which we know both the order and difference bw. The values, base is fixed)
+- Ratio (percentage, use data on same scale to better compare, base is not fixed)
 
 --> Paying attention to the data types and convert data types if necessary
 	
