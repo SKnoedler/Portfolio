@@ -1,4 +1,4 @@
-# Data Understanding
+# Data Understanding & Preparation
 
 ## 1) Data Set Types
 	
@@ -54,11 +54,11 @@ text documents (e.g. MS word --> text analytics (e.g. word counts: word xy repea
 
 
 ### 2.4 Transformation
-- Aggregation
-- Discreatization
-- Log Transformation
+- Aggregation (information is gathered and expressed in a summary form)
+- Discretization (process of transferring continuous functions, models, variables, and equations into discrete counterparts)
+- Log Transformation (make highly skewed distributions less skewed. This can be valuable both for making patterns in the data more interpretable)
 - Z- Score transformation (Adjust for different sizes of populations to better compare numbers - Z(x) = (x-u)/sd)
-- Min-max transformation
+- Min-max transformation (often called normalization: data is scaled to a fixed range - usually 0 to 1)
 
 ### 2.5 Sampling
 - Sampling when obtaining or analyzing the entire set of data of interest is too expensive or time consuming
