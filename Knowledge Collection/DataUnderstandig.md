@@ -15,7 +15,7 @@ text documents ( e.g. MS word) --> text analytics (e.g. word counts: word xy rep
 #### Image data:
 - image is stored as a sequence of pixels
 - image = 28*28px = 784, each pixel has a single pixel value [0, 255] 
-- indicating the lightness/ darkness of that pixel
+- indicating the lightness/ darkness of that pixel
 	
 #### Sequence Data:
 - DNA data, looking for sequences 
