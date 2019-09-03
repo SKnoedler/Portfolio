@@ -36,8 +36,11 @@ _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 
 ## 2) Fundamentals
-- ### Data Types
+- ### Data Understanding
 	- [Record and Non-Record Data](https://xxx.com): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types that Data Scientists work with.
+
+- ### Visualization
+	- [How to visualize data](https://xxx.com): Includes relevant information about data visualization.
 
 - ### Statistics
 	- [Fundamentals](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20Basics.pdf): mean, median, percentiles, and many other features explained.
