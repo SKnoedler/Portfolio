@@ -10,7 +10,7 @@ column = attribute
 ### 1.2 Non-Record Data: 
 
 #### Text Data:
-text documents ( e.g. MS word --> text analytics (e.g. word counts: word xy repeat 7 times)
+text documents (e.g. MS word --> text analytics (e.g. word counts: word xy repeat 7 times)
 
 #### Image Data:
 - image is stored as a sequence of pixels
@@ -40,7 +40,8 @@ text documents ( e.g. MS word --> text analytics (e.g. word counts: word xy repe
 	
 ### 2.2 Data Quality Issues
 - Noise (modification of original values)
-- Outliers (data objects with characteristics that are considerably different than most of the other data objects --> analyze and decide whether outliers can be excluded)
+- Outliers (data objects with characteristics that are considerably different than most of the other data objects 
+--> analyze and decide whether outliers can be excluded)
 - Missing Values (information not collected/ not applicable --> eliminate record, ignore value or make estimation)
 - Duplicate Data (often when merging data --> clean data)
 
