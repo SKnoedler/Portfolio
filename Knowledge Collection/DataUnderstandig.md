@@ -9,10 +9,10 @@ column = attribute
   
 ### 1.2 Non-Record Data: 
 
-#### Text data
+#### Text Data:
 text documents ( e.g. MS word) --> text analytics (e.g. word counts: word xy repeat 7 times, just a website = it has equal quality/ value but no structure)
 
-#### Image data:
+#### Image Data:
 - image is stored as a sequence of pixels
 - image = 28*28px = 784, each pixel has a single pixel value [0, 255] 
 - indicating the lightness/ darkness of that pixel
