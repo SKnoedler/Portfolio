@@ -11,7 +11,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ## 1) Projects
 - ### Data Analysis and Visualization [Python, R]
-	- [Python Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms	
+	- [Python Visualization](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): Includes Mean, Hypothesis Testing, Correlation & Histograms	
 	_Tools: Python(Numpy, Pandas and Matplotlib)_
 	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. 
 	
