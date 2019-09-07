@@ -17,7 +17,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	
 	
 - ### Machine Learning [Python]
-	- [k-Nearest-Neighbor](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Nearest%20Neighbour%20Classfication.ipynb): 
+	- [k-Nearest-Neighbor](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Classification%20with%20nearest%20neighbors.html): 
 	In this project, I will perform classification with the nearest neighbor classifier, a non-linear, non-parametric method for 		classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
 	- [Multivariate Linear Regression](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Multivariate%20Linear%20Regression.ipynb): Predict the quality score of red wine from its
 physicochemical properties using linear regression.
