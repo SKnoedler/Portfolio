@@ -10,6 +10,13 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 ## 1) Projects
+- ### Data Analysis and Visualization [Python, R]
+	- [Python Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms	
+	_Tools: Python(Numpy, Pandas and Matplotlib)_
+	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. 
+	
+	
+_Tools: R(dplyr, ggplot2)_
 - ### Machine Learning [Python]
 	- [k-Nearest-Neighbor](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Nearest%20Neighbour%20Classfication.ipynb): 
 	In this project, I will perform classification with the nearest neighbor classifier, a non-linear, non-parametric method for 		classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
@@ -21,12 +28,6 @@ physicochemical properties using linear regression.
 	- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat.
 	_Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
-
-- ### Data Analysis and Visualization [Python, R]
-	- [Python Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20No1.ipynb): Includes Mean, Hypothesis Testing, Correlation & Histograms	
-	_Tools: Python(Numpy, Pandas and Matplotlib)_
-	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. 
-_Tools: R(dplyr, ggplot2)_
 
 - ### Academic Papers 
 	- [AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). 
