@@ -13,7 +13,7 @@ If you like what you see here and you want to have a chat with me about my portf
 - ### Data Analysis and Visualization [Python, R]
 	- [Python Visualization](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): Includes Mean, Hypothesis Testing, Correlation & Histograms	
 	_Tools: Python(Numpy, Pandas and Matplotlib)_
-	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. _Tools: R(dplyr, ggplot2)_
+
 	
 	
 - ### Machine Learning [Python]
@@ -54,6 +54,7 @@ _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 - ### R Programming Language
 	- [Basics I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/R%20Basics.pdf): Basic R syntax; Foundational R programming concepts such as data types, vectors arithmetic, and indexing; operations in R including sorting, data wrangling using dplyr, and making plots
+	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. _Tools: R(dplyr, ggplot2)_
 
 ## 3) Academic Courses:
 ### Current Courses at Univiersty of Syracuse, USA (Fall 2019):
