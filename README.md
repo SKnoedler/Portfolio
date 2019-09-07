@@ -58,11 +58,11 @@ _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 ## 3) Academic Courses:
 ### Current Courses at Univiersty of Syracuse, USA (Fall 2019):
 <details>
-<summary> Big Data Analytics [Python (Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib), R]</summary>
+<summary> Big Data Analytics [Python, Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]</summary>
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
 </details>
 <details>
-<summary> Data Analytics [Python, R]</summary>
+<summary> Data Analytics [R]</summary>
 General overview in data analytics techniques, familiarity with particular real-world applications, challenges involved in applications, and future directions of the field. Optional hands-on experience with available software packages.
 </details>
 <details>
