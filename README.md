@@ -13,10 +13,9 @@ If you like what you see here and you want to have a chat with me about my portf
 - ### Data Analysis and Visualization [Python, R]
 	- [Python Visualization](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): Includes Mean, Hypothesis Testing, Correlation & Histograms	
 	_Tools: Python(Numpy, Pandas and Matplotlib)_
-	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. 
+	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. _Tools: R(dplyr, ggplot2)_
 	
 	
-_Tools: R(dplyr, ggplot2)_
 - ### Machine Learning [Python]
 	- [k-Nearest-Neighbor](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Nearest%20Neighbour%20Classfication.ipynb): 
 	In this project, I will perform classification with the nearest neighbor classifier, a non-linear, non-parametric method for 		classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
