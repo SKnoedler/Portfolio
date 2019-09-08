@@ -62,7 +62,7 @@ Students will learn to obtain, screen, clean, link, manipulate, analyze and disp
 General overview in data analytics techniques, familiarity with particular real-world applications, challenges involved in applications, and future directions of the field. Optional hands-on experience with available software packages.
 </details>
 <details>
-<summary> Cloud Management</summary>
+<summary> Cloud Management [AWS, IBM-, Google- Cloud, VMware]</summary>
 Cloud services creation and management. Practical experience in using, creating and managing digital services across data centers and hybrid clouds. Strategic choices for cloud digital service solutions across open data centers and software defined networks.
 </details>	
 
