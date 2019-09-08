@@ -1,8 +1,6 @@
 # Data Science Portfolio
 
 
------------ *The portfolio is incomplete, additional pages & jupyter notebooks will be added* ----------- 
-
 
 This is an overview of my Data Science knowledge as well as a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes.
 
