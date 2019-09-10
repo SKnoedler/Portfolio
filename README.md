@@ -8,11 +8,9 @@ If you like what you see here and you want to have a chat with me about my portf
 
 
 ## 1) Projects
-- ### Data Analysis and Visualization [Python]
+- ### Data Analysis and Visualization [Python, R]
 	- [Python Visualization](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): Includes Mean, Hypothesis Testing, Correlation & Histograms	 _Tools: Python(Numpy, Pandas and Matplotlib)_
-
-- ### Data Analysis and Visualization [R]
-	- [Python Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20in%20R.pdf): Includes analysis, different visuazalizations and Regression _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
+	- [R Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20in%20R.pdf): Includes analysis, different visuazalizations and Regression _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 	
 	
 - ### Machine Learning [Python] (more to be added..)
