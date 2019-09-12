@@ -17,7 +17,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	
 -	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
-#### Machine Learning [Python] (more to be added..)
+#### Machine Learning (more to be added..)
 - [k-Nearest-Neighbor](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Classification%20with%20nearest%20neighbors.html): In this project, I will perform classification with the nearest neighbor classifier, a non-linear, non-parametric method for classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
 
 - [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. _Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
