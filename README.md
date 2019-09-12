@@ -11,22 +11,23 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ### Python Programming Language
 
-	-	[Analysis and Visualization Smoking data](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): Includes Mean, Hypothesis Testing, Correlation & Histograms _Tools: Python(Numpy, Pandas and Matplotlib)_
-	
-	-	[AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
+#### Analysis and Visualization
 
-### R Programming Language
-- ### Data Analysis and Visualization
-	-	[Analysis and Visualization Scool data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R.ipynb): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
-
-
+- 	[Analysis of Smoking data](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): Includes Mean, Hypothesis Testing, Correlation & Histograms _Tools: Python(Numpy, Pandas and Matplotlib)_
 	
-	
-- ### Machine Learning [Python] (more to be added..)
+-	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
+
+#### Machine Learning [Python] (more to be added..)
 	- [k-Nearest-Neighbor](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Classification%20with%20nearest%20neighbors.html): 
 	In this project, I will perform classification with the nearest neighbor classifier, a non-linear, non-parametric method for 		classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
 	- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat.
 	_Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
+
+#### Machine Learning
+
+### R Programming Language
+- ### Data Analysis and Visualization
+	-	[Analysis and Visualization Scool data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R.ipynb): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
 - ### Cloud Computing [AWS]
 	- [Host Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html):
