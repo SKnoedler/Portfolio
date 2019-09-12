@@ -25,19 +25,16 @@ If you like what you see here and you want to have a chat with me about my portf
 #### Independent Projects
 - [Job Web Crawler](https://www.linkedin.com/pulse/data-project-who-looking-enthusiasts-frankfurt-germany-kn%C3%B6dler): I've decided to build my very first web crawler to collect information about jobs in my home city, Frankfurt. In this short post, I would like to share with you some knowledge about how to crawl data from webpages as well as some thoughts on the results of my very short analysis.
 
-<br/>
 
 ### 1.2 Programming Language: R
 - Data Analysis and Visualization
 	-	[Analysis of School data](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R%20(0).html): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
-<br/>
 
 ### 1.3 Cloud Computing
 - Amazon Web Services (AWS)
 	- [Hosting a Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
 
-<br/>
 <br/>
 
 ## 2 Knowledge
@@ -64,6 +61,7 @@ If you like what you see here and you want to have a chat with me about my portf
 ### 2.3 Personal Interest
 - [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
 
+<br/>
 
 ## 3 Academic Courses:
 
@@ -128,6 +126,7 @@ Application systems and information systems as well as business processes and th
 This course covers fundamentals, development, and introduction of information and communication systems for enterprises. It includes functionality and architecture and development of ICS as well as Business Process Reeingineering (BPR).
 </details>
 
+<br/>
 
 ## 4 Completed Online Courses: 
 - #### Data Science: Visualization
