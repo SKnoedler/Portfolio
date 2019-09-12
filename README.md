@@ -34,9 +34,10 @@ If you like what you see here and you want to have a chat with me about my portf
 	- [Host Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
 
 
-## 2) Knowledge
-- Data Understanding
-	- [Data Set Types and Preparation](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/DataUnderstandig.md): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types and provides information about data preparation.
+## 2 Knowledge
+
+### 2.1 Statstics & Data Understanding
+- [Data Set Types and Preparation](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/DataUnderstandig.md): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types and provides information about data preparation.
 
 - Statistics (to be updated)
 	- **Probability Distributions**: Uniform- , Normal/ Gaussian- and Poisson Distribution will be explained here.
@@ -44,6 +45,8 @@ If you like what you see here and you want to have a chat with me about my portf
 	- **Dimensionality Reduction**: This section explains the concept of dimensionality reduction.
 	- **Frequency Statistics**: The concept of frequency statistics is explained.
 	- **Bayesian Statistics**: The idea behind bayesion statistics and how it differs to frequency statistics.
+	
+### 2.2 Programming
 
 - Python Programming Language
 	- [Basics I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20of%20Python.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
@@ -52,12 +55,13 @@ If you like what you see here and you want to have a chat with me about my portf
 	- [Basics I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/R%20Basics.pdf): Basic R syntax; Foundational R programming concepts such as data types, vectors arithmetic, and indexing; operations in R including sorting, data wrangling using dplyr, and making plots
 	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. _Tools: R(dplyr, ggplot2)_
 	
-- LinkedIn Articles
-	- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
+### 2.3 Personal Interest
+- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
 
 
-## 3) Academic Courses:
-### Current Courses at Univiersty of Syracuse, USA (Fall 2019):
+## 3 Academic Courses:
+
+### 3.1 Current Courses at Univiersty of Syracuse, USA (Fall 2019):
 <details>
 <summary> Big Data Analytics [Python, Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]</summary>
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
@@ -71,7 +75,7 @@ General overview in data analytics techniques, familiarity with particular real-
 Cloud services creation and management. Practical experience in using, creating and managing digital services across data centers and hybrid clouds. Strategic choices for cloud digital service solutions across open data centers and software defined networks.
 </details>	
 
-### *Completed Courses*
+### 3.2 Completed Courses
 <details>
 <summary> Statistics (15 ECTS)</summary>
 Descriptive methods of univariate data analysis; additional methods and
@@ -119,7 +123,7 @@ This course covers fundamentals, development, and introduction of information an
 </details>
 
 
-## 4) Online Courses: 
+## 4 Completed Online Courses: 
 - #### Data Science: Visualization
 	- Harvard Online Course: Basic data visualization principles and how to apply them using ggplot2.
 
