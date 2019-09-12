@@ -9,7 +9,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ## 1 Projects
 
-### 1.1 Python Programming Language
+### 1.1 Programming Language: Python
 
 #### Analysis and Visualization
 
@@ -25,7 +25,7 @@ If you like what you see here and you want to have a chat with me about my portf
 #### Independent Projects
 - [Job Web Crawler](https://www.linkedin.com/pulse/data-project-who-looking-enthusiasts-frankfurt-germany-kn%C3%B6dler): I've decided to build my very first web crawler to collect information about jobs in my home city, Frankfurt. In this short post, I would like to share with you some knowledge about how to crawl data from webpages as well as some thoughts on the results of my very short analysis.
 
-### 1.2 R Programming Language
+### 1.2 Programming Language: R
 - Data Analysis and Visualization
 	-	[Analysis and Visualization Scool data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R.ipynb): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
