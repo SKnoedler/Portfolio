@@ -41,13 +41,6 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ### 2.1 Statstics & Data Understanding
 - [Data Set Types and Preparation](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/DataUnderstandig.md): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types and provides information about data preparation.
-
-- Statistics (to be updated)
-	- **Probability Distributions**: Uniform- , Normal/ Gaussian- and Poisson Distribution will be explained here.
-	- **Hypothesis Tests**: This section explains how the most common statistical hypothesis tests work as well as how to understand and interpret test values.
-	- **Dimensionality Reduction**: This section explains the concept of dimensionality reduction.
-	- **Frequency Statistics**: The concept of frequency statistics is explained.
-	- **Bayesian Statistics**: The idea behind bayesion statistics and how it differs to frequency statistics.
 	
 ### 2.2 Programming
 
