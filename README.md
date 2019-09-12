@@ -65,7 +65,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ## 3 Academic Courses:
 
-### 3.1 Current Courses at Univiersty of Syracuse, USA (Fall 2019):
+### 3.1 Current Courses at University of Syracuse, USA (Fall 2019):
 <details>
 <summary> Big Data Analytics [Python, Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]</summary>
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
