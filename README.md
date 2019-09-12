@@ -9,9 +9,9 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ## 1) Projects
 - ### Data Analysis and Visualization [Python, R]
-	- [Python Visualization](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): Includes Mean, Hypothesis Testing, Correlation & Histograms	 
+	- [Analysis and Visualization using Python](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): Includes Mean, Hypothesis Testing, Correlation & Histograms	 
 _Tools: Python(Numpy, Pandas and Matplotlib)_
-	- [R Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20in%20R.pdf): Includes analysis, different visuazalizations and Regression 
+	- [Analysis and Visualization using R](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R.ipynb): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons.
 _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 	- [AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). 
 _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
