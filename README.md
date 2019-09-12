@@ -13,6 +13,8 @@ If you like what you see here and you want to have a chat with me about my portf
 _Tools: Python(Numpy, Pandas and Matplotlib)_
 	- [R Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20in%20R.pdf): Includes analysis, different visuazalizations and Regression 
 _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
+	- [AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). 
+_Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 	
 	
 - ### Machine Learning [Python] (more to be added..)
@@ -21,11 +23,9 @@ _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 	- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat.
 	_Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
-
-- ### Academic Papers 
-	- [AirBnB Analysis](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): I drafted an analysis that covers an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). 
-_Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
-
+- ### Cloud Computing [AWS]
+	- [Host Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html):
+	Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
 
 - ### LinkedIn Articles
 	- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
