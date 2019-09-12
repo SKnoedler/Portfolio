@@ -7,9 +7,9 @@ This is an overview of my Data Science knowledge as well as a brief summary of r
 If you like what you see here and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](mailto:st.knoedler@gmail.com). Please also take a look at my [Website](https://sknoedler.github.io) where you can find my CV as well as a more general description of my Data Science skills.
 
 
-## 1) Projects
+## 1 Projects
 
-### Python Programming Language
+### 1.1 Python Programming Language
 
 #### Analysis and Visualization
 
@@ -22,19 +22,20 @@ If you like what you see here and you want to have a chat with me about my portf
 
 - [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. _Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
-#### Machine Learning
+#### Independent Projects
+- [Job Web Crawler](https://www.linkedin.com/pulse/data-project-who-looking-enthusiasts-frankfurt-germany-kn%C3%B6dler): I've decided to build my very first web crawler to collect information about jobs in my home city, Frankfurt. In this short post, I would like to share with you some knowledge about how to crawl data from webpages as well as some thoughts on the results of my very short analysis.
 
-### R Programming Language
-- ### Data Analysis and Visualization
+### 1.2 R Programming Language
+- Data Analysis and Visualization
 	-	[Analysis and Visualization Scool data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R.ipynb): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
-- ### Cloud Computing [AWS]
-	- [Host Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html):
-	Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
+### 1.3 Cloud Computing
+- Amazon Web Services (AWS)
+	- [Host Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
 
 - ### LinkedIn Articles
 	- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
-	- [Job Web Crawler](https://www.linkedin.com/pulse/data-project-who-looking-enthusiasts-frankfurt-germany-kn%C3%B6dler): A couple of days ago, I've decided to build my very first web crawler to collect information about jobs in my home city, Frankfurt. In this short post, I would like to share with you some knowledge about how to crawl data from webpages as well as some thoughts on the results of my very short analysis.
+
 
 
 ## 2) Fundamentals
