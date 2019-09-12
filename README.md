@@ -35,7 +35,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ### 1.3 Cloud Computing
 - Amazon Web Services (AWS)
-	- [Host Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
+	- [Hosting a Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
 
 <br/>
 <br/>
