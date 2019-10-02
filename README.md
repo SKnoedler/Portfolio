@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-
+----------------------------------- More projects to be added soon -----------------------------------
 
 This is an overview of my Data Science knowledge as well as a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes.
 
