@@ -51,7 +51,14 @@ If you like what you see here and you want to have a chat with me about my portf
 <br/>
 
 ## 3 Academic Courses:
-
+<details>
+<summary> Foundations of Development of IT [SQL, Python]</summary>
+This course covers and deals with each phase in the IT development cycle individually. The cycle will be broken down into themes: initiation, system concept development, planning, requirements analysis, design, code-based development, integration and test, implementation, operation and maintenance, and termination.
+</details>
+<details>
+<summary> Cloud Management [Docker, AWS, IBM-, Google- Cloud, VMware]</summary>
+Cloud services creation and management. Practical experience in using, creating and managing digital services across data centers and hybrid clouds. Strategic choices for cloud digital service solutions across open data centers and software defined networks.
+</details>
 <details>
 <summary> Big Data Analytics [Python, Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]</summary>
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
@@ -59,10 +66,6 @@ Students will learn to obtain, screen, clean, link, manipulate, analyze and disp
 <details>
 <summary> Data Analytics [R]</summary>
 General overview in data analytics techniques, familiarity with particular real-world applications, challenges involved in applications, and future directions of the field. Optional hands-on experience with available software packages.
-</details>
-<details>
-<summary> Cloud Management [Docker, AWS, IBM-, Google- Cloud, VMware]</summary>
-Cloud services creation and management. Practical experience in using, creating and managing digital services across data centers and hybrid clouds. Strategic choices for cloud digital service solutions across open data centers and software defined networks.
 </details>
 <details>
 <summary> Statistics (15 ECTS)</summary>
@@ -92,10 +95,6 @@ The course will teach students to describe and analyse complexity within an empi
 <details>
 <summary> Big Data Processes (7.5 ECTS) [Tableau]</summary>
 This course covers analytics and visualization (e.g., exploratory data analysis, classification, clustering), as well as challenges of Big Data processes (e.g., handling of personal data). Furthermore, students will practice communicating and presenting of results as well as reflections during the exercises. Students learn to apply a number of software tools for analytics and visualization, such as Tableau and R.
-</details>
-<details>
-<summary> Foundations of Development of IT [SQL]</summary>
-This course covers and deals with each phase in the IT development cycle individually. The cycle will be broken down into themes: initiation, system concept development, planning, requirements analysis, design, code-based development, integration and test, implementation, operation and maintenance, and termination.
 </details>
 <details>
 <summary> Marketing Analytics (6 ECTS)</summary>
