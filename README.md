@@ -10,7 +10,7 @@ If you like what you see here and you want to have a chat with me about my portf
 #### Applications
 - 	[Serverless App to automate my Job Search](http://xxx): XXX _TECH: Python, Serverless Framework (Node.js), AWS Lambda, -CloudWatch, -DynamoDB_
 
-- 	[Interactive Analytic App](http://xxx): XXX _TECH: Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js), _
+- 	[Interactive Analytic App](http://xxx): XXX _TECH: Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js)_
 
 - 	[Web App](https://sknoedler.github.io): This is actually my second website. I have developed another one from scratch, only using HTML and CSS _TECH: HTML, CSS, JavaScript_
 
@@ -24,7 +24,7 @@ If you like what you see here and you want to have a chat with me about my portf
 - [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. _TECH: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
 #### Analysis and Visualization
--	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). _TECH: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
+-	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset.. _TECH: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 -	[Analysis of School data](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R%20(0).html): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _TECH: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
@@ -40,7 +40,7 @@ If you like what you see here and you want to have a chat with me about my portf
 ### 2.2 Data Science
 - [Data Set Types and Preparation](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/DataUnderstandig.md): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types and provides information about data preparation.
 
-- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
+- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about.
 
 - [R Programming Language](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/R%20Basics.pdf): Basic R syntax; Foundational R programming concepts such as data types, vectors arithmetic, and indexing; operations in R including sorting, data wrangling using dplyr, and making plots
 	
