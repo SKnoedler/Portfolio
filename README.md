@@ -2,7 +2,7 @@
 
 This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, & hobby purposes.
 
-Please take a look at my [Website](https://sknoedler.github.io) where you can find even more information. If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](mailto:st.knoedler@gmail.com).
+Please also take a look at my [Website](https://sknoedler.github.io) where you can find even more information. If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](mailto:st.knoedler@gmail.com).
 
 
 ## 1 Projects
@@ -121,7 +121,7 @@ This course covers fundamentals, development, and introduction of information an
 	- Datacamp.com: This course teaches you everything you need to know to begin working with databases today
 
 - #### Python Programming
-	- Codeacademy.com: This course teaches you everything you need to know to work with the programming language PYthon
+	- Codeacademy.com: This course teaches you everything you need to know to work with the programming language Python
 
 - #### Python Bootcamp
 	- Udemy.com: Python Bootcamp: Vom Anfänger zum Profi, inkl. Data Science
