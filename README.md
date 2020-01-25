@@ -12,6 +12,10 @@ If you like what you see here and you want to have a chat with me about my portf
 
 - 	[Interactive Analytic App](http://xxx): XXX _TECH: Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js), _
 
+- 	[Web App](https://sknoedler.github.io): This is actually my second website. I have developed another one from scratch, only using HTML and CSS _TECH: HTML, CSS, JavaScript_
+
+
+
 #### Machine Learning
 - [Injury Prevention Project](https:/xx): XX _TECH: PySpark_ 
 
