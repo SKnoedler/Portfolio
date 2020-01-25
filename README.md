@@ -7,26 +7,22 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ## 1 Projects
 
-### 1.1 Programming Language: Python
+#### Applications
+- 	[Serverless App to automate my Job Search](http://xxx): XXX _TECH: Serverless Framework (Node.js), Python, AWS Lambda, -CloudWatch, -DynamoDB_
+
+- 	[Interactive Analytic App](http://xxx): XXX _TECH: Dash by Plotly framework, Python_
 
 #### Analysis and Visualization
-
-- 	[Analysis of Smoking data](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): School Exercise that covers Mean, Hypothesis Testing, Correlation & Histograms _Tools: Python(Numpy, Pandas and Matplotlib)_
+- 	[Analysis of Smoking data](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): School Exercise that covers Mean, Hypothesis Testing, Correlation & Histograms _TECH: Python(Numpy, Pandas and Matplotlib)_
 	
--	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). _Tools: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
+-	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset. The quantitative and qualitative analysis includes a variety of visualization (Python, Excel) as well as different regression models (including optimal selection of features). _TECH: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
+
+-	[Analysis of School data](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R%20(0).html): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _TECH: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
 #### Machine Learning
 - [k-Nearest-Neighbor](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Classification%20with%20nearest%20neighbors.html): School Exercise in which I performed a classification with the nearest neighbor classifier, a non-linear, non-parametric method for classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
 
-- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. _Tools: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
-
-#### Independent Projects
-- [Job Web Crawler](https://www.linkedin.com/pulse/data-project-who-looking-enthusiasts-frankfurt-germany-kn%C3%B6dler): I've decided to build my very first web crawler to collect information about jobs in my home city, Frankfurt. In this short post, I would like to share with you some knowledge about how to crawl data from webpages as well as some thoughts on the results of my very short analysis.
-
-
-### 1.2 Programming Language: R
-- Data Analysis and Visualization
-	-	[Analysis of School data](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R%20(0).html): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _Tools: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
+- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. _TECH: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
 
 ### 1.3 Cloud Computing
