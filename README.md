@@ -8,7 +8,7 @@ If you like what you see here and you want to have a chat with me about my portf
 ## 1 Projects
 
 #### Applications
-- 	[Serverless App to automate my Job Search](http://xxx): XXX _TECH: Python, Serverless Framework (Node.js), AWS Lambda, -CloudWatch, -DynamoDB_
+- 	[Serverless App to automate my Job Search](http://xxx): XXX _TECH: Python, Serverless Framework (Node.js), AWS Lambda, CloudWatch, DynamoDB_
 
 - 	[Interactive Analytic App](http://xxx): XXX _TECH: Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js)_
 
