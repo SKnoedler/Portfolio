@@ -14,8 +14,6 @@ If you like what you see here and you want to have a chat with me about my portf
 
 - 	[Web App](https://sknoedler.github.io): This is actually my second website. I have developed another one from scratch, only using HTML and CSS _TECH: HTML, CSS, JavaScript_
 
-
-
 #### Machine Learning
 - [Injury Prevention Project](https:/xx): XX _TECH: PySpark_ 
 
@@ -48,7 +46,7 @@ If you like what you see here and you want to have a chat with me about my portf
 	
 <br/>
 
-## 3 Academic Courses:
+## 3 Completed Academic Courses:
 <details>
 <summary> Foundations of Development of IT [SQL, Python]</summary>
 This course covers and deals with each phase in the IT development cycle individually. The cycle will be broken down into themes: initiation, system concept development, planning, requirements analysis, design, code-based development, integration and test, implementation, operation and maintenance, and termination.
