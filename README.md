@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Portfolio
 
 ----------------------------------- More projects to be added soon -----------------------------------
 
@@ -58,7 +58,7 @@ If you like what you see here and you want to have a chat with me about my portf
 
 ## 3 Academic Courses:
 
-### 3.1 Current Courses at University of Syracuse, USA (Fall 2019):
+### 3.1 Completed Courses
 <details>
 <summary> Big Data Analytics [Python, Apache Spark, Hadoop 2.0, Spark ML, Pandas, Matplotlib)]</summary>
 Students will learn to obtain, screen, clean, link, manipulate, analyze and display data while creating summaries, overviews, models, analyses and basic tables, histograms, trees and scattergrams. They will use Python and Apache Spark to explore classic and modern machine learning techniques (such as deep learning) within a big data context, including sentiment analysis via supervised learning, recommendation systems via unsupervised learning and predicting credit scoring via random forest machine learning.
@@ -70,9 +70,7 @@ General overview in data analytics techniques, familiarity with particular real-
 <details>
 <summary> Cloud Management [Docker, AWS, IBM-, Google- Cloud, VMware]</summary>
 Cloud services creation and management. Practical experience in using, creating and managing digital services across data centers and hybrid clouds. Strategic choices for cloud digital service solutions across open data centers and software defined networks.
-</details>	
-
-### 3.2 Completed Courses
+</details>
 <details>
 <summary> Statistics (15 ECTS)</summary>
 Descriptive methods of univariate data analysis; additional methods and
