@@ -86,8 +86,8 @@ Dimensionality reduction and visualization techniques such as principal componen
 The course will teach students to describe and analyse complexity within an empirical case. Students will be introduced to a range of conceptual and technical tools for generating and visualizing data and analyzing complexity. Throughout the course students will experiment with different techniques for generating data and visualizing complexity. Based on case work, students will be requested to reflect on how visualizations work as simplifications and can inform decision-making.
 </details>
 <details>
-<summary> Big Data Processes (7.5 ECTS) [Tableau]</summary>
-This course covers analytics and visualization (e.g., exploratory data analysis, classification, clustering), as well as challenges of Big Data processes (e.g., handling of personal data). Furthermore, students will practice communicating and presenting of results as well as reflections during the exercises. Students learn to apply a number of software tools for analytics and visualization, such as Tableau and R.
+<summary> Big Data Processes (7.5 ECTS) [Tableau, Python]</summary>
+This course covers analytics and visualization (e.g., exploratory data analysis, classification, clustering), as well as challenges of Big Data processes (e.g., handling of personal data). Furthermore, students will practice communicating and presenting of results as well as reflections during the exercises. Students learn to apply a number of software tools for analytics and visualization.
 </details>
 <details>
 <summary> Marketing Analytics (6 ECTS)</summary>
