@@ -25,29 +25,29 @@ If you like what you see here and you want to have a chat with me about my portf
 - [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. _TECH: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
 
-### 1.3 Cloud Computing
-- Amazon Web Services (AWS)
-	- [Hosting a Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
-
 <br/>
 
 ## 2 Knowledge
 
-### 2.1 Statstics & Data Understanding
+### 2.1 Cloud Computing
+- Amazon Web Services (AWS)
+	- [Hosting a Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
+
+### 2.2 Data Science
 - [Data Set Types and Preparation](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/DataUnderstandig.md): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types and provides information about data preparation.
+
+- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
 	
-### 2.2 Programming
+### 2.3 Guidelines
 
 - Python Programming Language
 	- [Basics I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Basics%20of%20Python.ipynb): Includes simple examples of declaration, data types, if statements, for statements & while loops
 
 - R Programming Language
 	- [Basics I](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/R%20Basics.pdf): Basic R syntax; Foundational R programming concepts such as data types, vectors arithmetic, and indexing; operations in R including sorting, data wrangling using dplyr, and making plots
+	
 	- [R Visualization & Guidlines](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. _Tools: R(dplyr, ggplot2)_
 	
-### 2.3 Personal Interest
-- [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about. I think Deep PP is a very exciting field of study and I cannot wait to learn more.
-
 <br/>
 
 ## 3 Academic Courses:
@@ -114,10 +114,10 @@ This course covers fundamentals, development, and introduction of information an
 <br/>
 
 ## 4 Completed Online Courses: 
-- #### Data Science: Visualization
+- #### Harvard Data Science: Visualization
 	- Harvard Online Course: Basic data visualization principles and how to apply them using ggplot2.
 
-- #### Data Science: R Basics
+- #### Harvard Data Science: R Basics
 	- Harvard Online Course: Foundation in R and learn how to wrangle, analyze, and visualize data.
 	
 - #### Introduction to Python
