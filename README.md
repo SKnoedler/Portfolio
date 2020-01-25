@@ -8,9 +8,9 @@ If you like what you see here and you want to have a chat with me about my portf
 ## 1 Projects
 
 #### Applications
-- 	[Serverless App to automate my Job Search](http://xxx): XXX _TECH: Serverless Framework (Node.js), Python, AWS Lambda, -CloudWatch, -DynamoDB_
+- 	[Serverless App to automate my Job Search](http://xxx): XXX _TECH: Python, Serverless Framework (Node.js), AWS Lambda, -CloudWatch, -DynamoDB_
 
-- 	[Interactive Analytic App](http://xxx): XXX _TECH: Dash by Plotly framework, Python_
+- 	[Interactive Analytic App](http://xxx): XXX _TECH: Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js), _
 
 #### Analysis and Visualization
 - 	[Analysis of Smoking data](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): School Exercise that covers Mean, Hypothesis Testing, Correlation & Histograms _TECH: Python(Numpy, Pandas and Matplotlib)_
