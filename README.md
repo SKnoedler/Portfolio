@@ -1,6 +1,6 @@
 # Portfolio
 
-This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, & hobby purposes. Please also take a look at my [Website](https://sknoedler.github.io). If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](mailto:st.knoedler@gmail.com).
+This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes. Please also take a look at my [Website](https://sknoedler.github.io). If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration write me an [email](mailto:st.knoedler@gmail.com).
 
 
 ## 1 Projects
@@ -20,7 +20,7 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 - [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. _TECH: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
 #### Analysis and Visualization
--	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset.. _TECH: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
+-	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset.. <br/> _Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
 
 -	[Analysis of School data](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R%20(0).html): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _TECH: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
