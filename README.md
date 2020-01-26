@@ -34,7 +34,7 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 
 - [Docker & Kubernetes Basics for Developers](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.pdf): Walk through the fundamentals of Docker and Kubernetes. INcluding using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
 
-- [Google Cloud Platform Basics](): Includes Creation and Management of VM Instances, Instance Templates as well as groups of Instances. Describes set up of Virtual Private Cloud (VPC)
+- [Google Cloud Platform Basics](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Google%20Cloud%20Platform.pdf): Includes Creation and Management of VM Instances, Instance Templates as well as groups of Instances. Describes set up of Virtual Private Cloud (VPC)
 
 
 
