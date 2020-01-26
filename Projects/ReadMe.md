@@ -1,4 +1,5 @@
-# Serverless Application
+# Projects
 
-## Automate your Job Search
-Using serverless framework (node.js) to create an application that can be deployed in AWS Lambda. The application be scheduled by AWS Cloudwatch and stores data in DynamoDB.
+## 1) Serverless Application: Automate your Job Search with AWS Lambda, CloudWatch, DynamoDB
+## 2) Websites: A number of websites I did for hobby purposes
+## 3) xx
