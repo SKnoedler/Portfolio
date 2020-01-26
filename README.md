@@ -30,11 +30,16 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 ## 2 Knowledge
 
 ### 2.1 Cloud Computing
+
+- [Docker & Kubernetes Basics for Developers](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.pdf): Walk through the fundamentals of Docker and Kubernetes. Including using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
+
+- [Deploying a Cloud Foundry App using Toolchains in IBM Cloud](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/IBM%20Cloud.pdf): Build-Test-Deploy: Cloud Foundry is an open-source PaaS that can be used to deploy as well as scale applications without managing any servers. It takes advantage of a container-based architecture that can run applications in any language. The PaaS includes a self-service application-engine to run 
+the application, an automation engine that makes deployment and maintenance possible, a command line to interact with the environment as well as integration of development tools. Toolchains includes services for continuous delivery, source control, issue tracking as well as online editing.
+
+- [Google Cloud Platform Basics](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Google%20Cloud%20Platform.pdf): Includes Creation and Management of VM Instances, Instance Templates as well as groups of Instances. Describes set up of Virtual Private Cloud (VPC)
+
 - [Hosting a Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
 
-- [Docker & Kubernetes Basics for Developers](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.pdf): Walk through the fundamentals of Docker and Kubernetes. INcluding using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
-
-- [Google Cloud Platform Basics](): Includes Creation and Management of VM Instances, Instance Templates as well as groups of Instances. Describes set up of Virtual Private Cloud (VPC)
 
 
 
