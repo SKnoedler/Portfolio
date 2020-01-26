@@ -1,5 +1,4 @@
 # Portfolio
-
 This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes. Please also take a look at my [Website](https://sknoedler.github.io). If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration write me an [email](mailto:st.knoedler@gmail.com).
 
 
@@ -10,7 +9,7 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 
 - 	[Interactive Analytic App](http://xxx): XXX <br/> _Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js)_
 
-- 	[Web App](https://sknoedler.github.io): This is my personal website. Please take a look <br/> _HTML, CSS, JavaScript_
+- 	[Web App](https://sknoedler.github.io): This is my personal website where you can find more general information about me and my passion for coding and data.  <br/> _HTML, CSS, JavaScript_
 
 #### Machine Learning
 - [Injury Prevention Project](https:/xx): XX <br/> _PySpark (MLSpark), Python (Pandas, Numpy)_ 
