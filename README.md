@@ -1,5 +1,5 @@
 # Portfolio
-This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes. Please also take a look at my [Website](https://sknoedler.github.io). If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration write me an [email](mailto:st.knoedler@gmail.com).
+This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes. Please also take a look at my [website](https://sknoedler.github.io). If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration write me an [email](mailto:st.knoedler@gmail.com).
 
 
 ## 1 Projects
@@ -39,6 +39,8 @@ the application, an automation engine that makes deployment and maintenance poss
 - [Google Cloud Platform Basics](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Google%20Cloud%20Platform.pdf): Includes Creation and Management of VM Instances, Instance Templates as well as groups of Instances. Describes set up of Virtual Private Cloud (VPC)
 
 - [Hosting a Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
+
+- [Virtualization with VMware VSphere](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/VMware.pdf): vSphere is a server virtualization platform from VMware. It serves as a complete platform for implementing and managing virtual machine (VM) infrastructure on a large scale.
 
 
 
