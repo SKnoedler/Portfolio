@@ -12,7 +12,8 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 - 	[Web App](https://sknoedler.github.io): This is my personal website where you can find more general information about me and my passion for coding and data.  <br/> _HTML, CSS, JavaScript_
 
 #### Machine Learning
-- [Injury Prevention Project](https:/xx): XX <br/> _PySpark (MLSpark), Python (Pandas, Numpy)_ 
+- [Injury Prevention Project](https:/xx): Injury accidents happen every day in New York State. In this project, I used data from vehicles department of New York State to predict whether a person gets injured if a car crash happens a certain time and particular location. Model 1: Logistic Regression, Model 2: Random Forest, Model 3: Gradient Boosting. The Logistic Regression Model outperforms Random Forest and Gradient Boosting Trees, having AUC of 0.742 with all features. On top of that I developed a demo that could be used from officials to assess the danger of a certain area.
+ <br/> _PySpark (MLSpark), Python (Pandas, Numpy)_ 
 
 - [k-Nearest-Neighbor](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Classification%20with%20nearest%20neighbors.html): School Exercise in which I performed a classification with the nearest neighbor classifier, a non-linear, non-parametric method for classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
 
