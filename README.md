@@ -6,11 +6,11 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 ## 1 Projects
 
 #### Applications
-- 	[Serverless App to automate my Job Search](http://xxx): XXX _TECH: Python, Serverless Framework (Node.js), AWS Lambda, CloudWatch, DynamoDB_
+- 	[Serverless App to automate my Job Search](http://xxx): XXX <br/> _Python, Serverless Framework (Node.js), AWS Lambda, CloudWatch, DynamoDB_
 
-- 	[Interactive Analytic App](http://xxx): XXX _TECH: Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js)_
+- 	[Interactive Analytic App](http://xxx): XXX <br/> _Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js)_
 
-- 	[Web App](https://sknoedler.github.io): This is actually my second website. I have developed another one from scratch, only using HTML and CSS _TECH: HTML, CSS, JavaScript_
+- 	[Web App](https://sknoedler.github.io): This is my personal website. Please take a look <br/> _HTML, CSS, JavaScript_
 
 #### Machine Learning
 - [Injury Prevention Project](https:/xx): XX _TECH: PySpark_ 
