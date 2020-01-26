@@ -1,4 +1,4 @@
-# Project code
+# Serverless Application
 
-## Job-Scraper-Steffen
-Code to deploy deploy Python Job Scraper as a Lambda function serverless on AWS
+## Automate your Job Search
+Using serverless framework (node.js) to create an application that can be deployed in AWS Lambda. The application be scheduled by AWS Cloudwatch and stores data in DynamoDB.

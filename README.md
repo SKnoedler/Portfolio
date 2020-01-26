@@ -1,32 +1,29 @@
 # Portfolio
-
-This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, & hobby purposes.
-
-Please also take a look at my [Website](https://sknoedler.github.io) where you can find even more information. If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration, write me an [email](mailto:st.knoedler@gmail.com).
+This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes. Please also take a look at my [Website](https://sknoedler.github.io). If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration write me an [email](mailto:st.knoedler@gmail.com).
 
 
 ## 1 Projects
 
 #### Applications
-- 	[Serverless App to automate my Job Search](http://xxx): XXX _TECH: Python, Serverless Framework (Node.js), AWS Lambda, CloudWatch, DynamoDB_
+- 	[Serverless App to automate my Job Search](http://xxx): XXX <br/> _Python, Serverless Framework (Node.js), AWS Lambda, CloudWatch, DynamoDB_
 
-- 	[Interactive Analytic App](http://xxx): XXX _TECH: Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js)_
+- 	[Interactive Analytic App](http://xxx): XXX <br/> _Python, Dash by Plotly framework (Written on top of Flask, Plotly.js, and React.js)_
 
-- 	[Web App](https://sknoedler.github.io): This is actually my second website. I have developed another one from scratch, only using HTML and CSS _TECH: HTML, CSS, JavaScript_
+- 	[Web App](https://sknoedler.github.io): This is my personal website where you can find more general information about me and my passion for coding and data.  <br/> _HTML, CSS, JavaScript_
 
 #### Machine Learning
-- [Injury Prevention Project](https:/xx): XX _TECH: PySpark_ 
+- [Injury Prevention Project](https:/xx): XX <br/> _PySpark (MLSpark), Python (Pandas, Numpy)_ 
 
 - [k-Nearest-Neighbor](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Classification%20with%20nearest%20neighbors.html): School Exercise in which I performed a classification with the nearest neighbor classifier, a non-linear, non-parametric method for classification. Then I will apply cross-validation for model selection and standard data normalization for preprocessing.
 
-- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. _TECH: Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
+- [Random Forest](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Jupyter%20Notebooks/Random%20Forest.ipynb): Train a random forest with 50 trees test the resulting classifier using test dat. <br/> _Python (scikit-learn, Numpy, Pandas, Matplotlib)_ 
 
 #### Analysis and Visualization
--	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset.. _TECH: Python (Numpy, Pandas, Matplotlib, SKlearn), Excel 365, Tableau_
+-	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset.. <br/> _Python (Numpy, Pandas, Matplotlib, SKlearn), Tableau_
 
--	[Analysis of School data](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R%20(0).html): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. _TECH: R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
+-	[Analysis of School data](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R%20(0).html): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. <br/> _R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
-- 	[Analysis of Smoking data](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): School Exercise that covers Mean, Hypothesis Testing, Correlation & Histograms _TECH: Python(Numpy, Pandas and Matplotlib)_
+- 	[Analysis of Smoking data](http://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Statistics%20and%20Visualization%20in%20Python.html): School Exercise that covers Mean, Hypothesis Testing, Correlation & Histograms <br/> _Python(Numpy, Pandas and Matplotlib)_
 
 <br/>
 
@@ -35,14 +32,20 @@ Please also take a look at my [Website](https://sknoedler.github.io) where you c
 ### 2.1 Cloud Computing
 - [Hosting a Webpage in AWS Cloud](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Github%20Webpage%20hosted%20on%20AWS%20Cloud.html): Amazon provides a variety of web services, one of them is the Amazon Elastic Compute Cloud (EC2). EC2 provides scalable compute capacity in the cloud. Therefore, it balances computing power, memory and networking resources. EC2 allows users to configure a Virtual Machine (VM)/ instance to deploy application content. In this task, I show and explain how I hosted a webpage from GitHub to an instance in EC2.
 
+- [Docker & Kubernetes Basics for Developers](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.pdf): Walk through the fundamentals of Docker and Kubernetes. INcluding using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
+
+- [Google Cloud Platform Basics](): Includes Creation and Management of VM Instances, Instance Templates as well as groups of Instances. Describes set up of Virtual Private Cloud (VPC)
+
+
+
 ### 2.2 Data Science
 - [Data Set Types and Preparation](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/DataUnderstandig.md): Data set types are the key foundation for any data analysis. This section introduces to the basics of record and non-record data types and provides information about data preparation.
 
 - [Deep Probabilistic Programming](https://www.linkedin.com/pulse/deep-probabilistic-programming-steffen-knödler/): One of our Data Science professors Thomas Hamelryck introduced us to Deep Probabilistic Programming (Deep PP) during a lecture in the second semester of my studies. This short blog post on LinkedIn introduces the idea of Deep PP and explains what it is  all about.
 
-- [R Programming Language](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/R%20Basics.pdf): Basic R syntax; Foundational R programming concepts such as data types, vectors arithmetic, and indexing; operations in R including sorting, data wrangling using dplyr, and making plots
+- [R Programming Language](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/R%20Basics.pdf): Basic R syntax; Foundational R programming concepts such as data types, vectors arithmetic, and indexing; operations in R including sorting, data wrangling using dplyr, and making plots.
 	
-- [R Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R. _Tools: R(dplyr, ggplot2)_
+- [R Visualization](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Data%20Visualization.pdf): Includes relevant information about data visualization and code in R.
 	
 <br/>
 
