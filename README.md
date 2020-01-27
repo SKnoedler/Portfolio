@@ -12,7 +12,7 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 - 	[Web App](https://sknoedler.github.io): This is my personal website where you can find more general information about me and my passion for coding and data.  <br/> _HTML, CSS, JavaScript_
 
 #### Machine Learning
-- [Injury Prevention Project](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Injury%20Prevention%20MLSpark%20Project.html): Injury accidents happen every day in New York State. In this project, I used data from vehicles department of New York State to predict whether a person gets injured if a car crash happens a certain time and particular location. Model 1: Logistic Regression, Model 2: Random Forest, Model 3: Gradient Boosting. The Logistic Regression Model outperforms Random Forest and Gradient Boosting Trees, having AUC of 0.742 with all features. On top of that I developed a demo that could be used from officials to assess the danger of a certain area.
+- [Injury Prevention Project](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Injury%20Prevention%20MLSpark%20Project.html): Injury accidents happen every day in New York State. In this project, I used data from vehicles department of New York State to predict whether a person gets injured if a car crash happens a certain time and particular location. Model 1: Logistic Regression, Model 2: Random Forest, Model 3: Gradient Boosting. The Logistic Regression Model outperforms Random Forest and Gradient Boosting Trees, having AUC of 0.742 with all features. On top of that I developed a demo that could be used from officials to assess the danger of a certain area.
  <br/> _PySpark (MLSpark), Python (Pandas, Numpy)_ 
 
 #### Analysis and Visualization
@@ -28,9 +28,9 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 
 ### 2.1 API
 
-- [What is REST API?](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/REST%20API%20Knowledge.html): Explaining the Basics of REST API
+- [What is REST API?](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/REST%20API%20Knowledge.html): Explaining the Basics of REST API
 
-- [Using Flask to develop a REST API](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Develop%20REST%20API%20with%20Flask.html): Introduction to REST API Development
+- [Using Flask to develop a REST API](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Develop%20REST%20API%20with%20Flask.html): Introduction to REST API Development
 
 ### 2.1 Cloud Computing
 
