@@ -32,6 +32,10 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 
 - [Using Flask to develop a REST API](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Develop%20REST%20API%20with%20Flask.html): Introduction to REST API Development
 
+### 2.2 NoSQL
+
+- [NoSQL Query Language](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/NOSQL%20Query%20Language.html): Basics of NoSQL Query Language used for MongoDB
+
 ### 2.1 Cloud Computing
 
 - [Docker & Kubernetes Basics for Developers](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.pdf): Walk through the fundamentals of Docker and Kubernetes. Including using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
