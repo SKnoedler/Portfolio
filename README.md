@@ -2,12 +2,12 @@
 This is an overview of my knowledge and a brief summary of relevant projects which I completed for academic, self-learning, and hobby purposes. Please also take a look at my [website](https://sknoedler.github.io). If you like what you see and you want to have a chat with me about my portfolio, work opportunities, or collaboration write me an [email](mailto:st.knoedler@gmail.com).
 
 
-## 1 Projects
+## 1 Projects 
 
 #### Applications
 - 	[Serverless App to automate my Job Search](https://github.com/SKnoedler/Portfolio/tree/master/Projects/Serverless%20Application): In this short article (https://lnkd.in/d4BBqWE) I explain how you can build your own serverless application to automate your job search. The application crawls data from the job platform stepstone, extracts job titles and company names. I included an option to filter search results: Eliminate search results that include certain words in the job title, such as "Senior" positions. Filter company names and/ or specify words that must be included in the job title. The Application is scheduled with CloudWatch and stores data in a table in DynamoDB. <br/> _Python, Serverless Framework (Node.js), AWS Lambda, CloudWatch, DynamoDB_
 
-- 	[Interactive Analytic App](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Projects/Interactive%20Analytic%20App/Interactive%20Analytic%20App.html): Dash is an open-source framework for building web-based analytic applications. Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code.  <br/> _Python, Dash by Plotly framework_
+- 	[Interactive Analytic App](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Projects/Interactive%20Analytic%20App/Interactive%20Analytic%20App.html): I used Dash to build an interactive analtic app. Dash is an open-source framework for building web-based analytic applications. Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code.  <br/> _Python, Dash by Plotly framework_
 
 - 	[Web App](https://github.com/SKnoedler/Portfolio/tree/master/Projects/Websites): I have developed a number of websites from scratch. My current iteration of my website is built isomg Bootstrap and accessible via https://sknoedler.github.io. There you can find more general information about me and my passion for coding and data.  <br/> _HTML, CSS, JavaScript, Bootstrap_
 
@@ -16,7 +16,7 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
  <br/> _PySpark (MLSpark), Python (Pandas, Numpy)_ 
 
 #### Analysis and Visualization
--	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): School project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset.. <br/> _Python (Numpy, Pandas, Matplotlib, SKlearn), Tableau_
+-	[Analysis of Airbnb data](https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/AirBnB%20Analysis.pdf): Project paper that describes the analysis of an Airbnb dataset of over 41,000 tuples and 95 attributes. In this paper, I am applying the concept of Cross-industry standard process for data mining (CRISP-DM) when analyzing the dataset.. <br/> _Python (Numpy, Pandas, Matplotlib, SKlearn), Tableau_
 
 -	[Analysis of Students Performance per Class](https://htmlpreview.github.io/?https://github.com/SKnoedler/Data-Science-Portfolio/blob/master/Knowledge%20Collection/Analysis%20and%20Visualization%20using%20R%20(0).html): Analyze and visualize data of 5 different school which have implemented the same math course this semester, with 35 lessons. <br/> _R(dplyr, ggplot2, tidyr, ggubr, reshape2)_
 
