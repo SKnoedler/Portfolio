@@ -28,6 +28,12 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 
 ## 2 Knowledge
 
+### 2.1 API
+
+- [What is REST API?](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/REST%20API%20Knowledge.html): Explaining the Basics of REST API
+
+- [Using Flask to develop a REST API](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Develop%20REST%20API%20with%20Flask.html): Introduction to REST API Development
+
 ### 2.1 Cloud Computing
 
 - [Docker & Kubernetes Basics for Developers](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.pdf): Walk through the fundamentals of Docker and Kubernetes. Including using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
