@@ -28,7 +28,7 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 
 ### 2.1 API
 
-- [What is REST API?](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/REST%20API%20Knowledge.html): Explaining the Basics of REST API
+- [What is REST API?](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/REST%20API%20Knowledge.html): Explaining the Basics of REST API. Explains the strcture of API requests: 1. Endpoint, 2. Method, 3. Headers, 4. Data (or body)
 
 - [Using Flask to develop a REST API](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Develop%20REST%20API%20with%20Flask.html): Introduction to REST API Development
 
