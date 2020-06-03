@@ -36,7 +36,11 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 
 - [NoSQL Query Language (html)](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/NOSQL%20Query%20Language.html): Basics of NoSQL Query Language used for MongoDB
 
-### 2.1 Cloud Computing
+### 2.3 Git
+
+- [Git Background and Commands (html)](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Introduction%20to%20Git%20(1).html): Explains how Git works and how to use its commands
+
+### 2.4 Cloud Computing
 
 - [Docker & Kubernetes Basics for Developers (pdf)](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.htm): Walk through the fundamentals of Docker and Kubernetes. Including using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
 
@@ -50,9 +54,7 @@ the application, an automation engine that makes deployment and maintenance poss
 - [Virtualization with VMware VSphere (html)](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/VMware.pdf)(pdf): vSphere is a server virtualization platform from VMware. It serves as a complete platform for implementing and managing virtual machine (VM) infrastructure on a large scale.
 
 
-
-
-### 2.2 Data Science Learning
+### 2.5 Data Science Learning
 - [Object recognition with deep learning (html)](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/deep_learning_object_recognition.html): In this task I use the multilayer perceptron as a learning model. The idea is to take the raw pixels of an image and predict the category of images. This is therefore a classification problem. I use the Spark ML library to apply a multilayer perceptron for classification.
 
 - [Feature Engineerring (html)](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/feature_engineering_titanic.html): Describes basic preprocessing steps in PySpark that are typically used in feature engineering to improve model accuracy, including: renaming, dropping, bucketize, standarize, ...
