@@ -42,7 +42,7 @@ This is an overview of my knowledge and a brief summary of relevant projects whi
 
 ### 2.4 Cloud Computing
 
-- [Docker & Kubernetes Basics for Developers (pdf)](https://htmlpreview.github.io/?https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.htm): Walk through the fundamentals of Docker and Kubernetes. Including using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
+- [Docker & Kubernetes Basics for Developers (pdf)](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/Docker%20and%20Kubernetes.pdf): Walk through the fundamentals of Docker and Kubernetes. Including using different Docker Containers, Docker Swarm Introduction, Docker in VM of AWS - Kubernetes Cluster via Minikube, Create and Manage a Deployment via Kubectl, Scale and update the app.
 
 - [Deploying a Cloud Foundry App using Toolchains in IBM Cloud (pdf)](https://github.com/SKnoedler/Portfolio/blob/master/Knowledge%20Collection/IBM%20Cloud.pdf): Build-Test-Deploy: Cloud Foundry is an open-source PaaS that can be used to deploy as well as scale applications without managing any servers. It takes advantage of a container-based architecture that can run applications in any language. The PaaS includes a self-service application-engine to run 
 the application, an automation engine that makes deployment and maintenance possible, a command line to interact with the environment as well as integration of development tools. Toolchains includes services for continuous delivery, source control, issue tracking as well as online editing.
